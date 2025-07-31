@@ -1,0 +1,1766 @@
+[
+    {
+        "hidden": "0",
+        "displayName": {
+            "english": "Yeah! I Did It!",
+            "german": "Ja! Ich hab's geschafft!",
+            "french": "Ouais\u00a0! J'ai r\u00e9ussi\u00a0!",
+            "italian": "S\u00ec! Ce l'ho fatta!",
+            "koreana": "\uc774\uc58f~\ud638! \ub4dc\ub514\uc5b4 \ud574\ub0c8\ub2e4! ",
+            "spanish": "\u00a1S\u00ed! \u00a1Lo consegu\u00ed!",
+            "tchinese": "\u597d\u8036\uff01\u8fa6\u5230\u4e86\uff01",
+            "russian": "\u0414\u0430! \u0423 \u043c\u0435\u043d\u044f \u043f\u043e\u043b\u0443\u0447\u0438\u043b\u043e\u0441\u044c!",
+            "japanese": "\u3088\u3057 \u3046\u307e\u304f\u3044\u3063\u305f\u308f!",
+            "arabic": "\u0623\u062c\u0644! \u0644\u0642\u062f \u0641\u0639\u0644\u062a\u0647\u0627!",
+            "brazilian": "\u00c9! Eu consegui!",
+            "token": "NEW_ACHIEVEMENT_1_1_NAME"
+        },
+        "description": {
+            "english": "Won a ranked match online.",
+            "german": "Online-Ranglisten-Spiel gewonnen.",
+            "french": "Remporter un combat en Matchmaking selon classement.",
+            "italian": "Vinta una Partita classificata online.",
+            "koreana": "ONLINE\uc758 RANKED MATCH\uc5d0\uc11c \uc2b9\ub9ac\ud588\ub2e4",
+            "spanish": "Has ganado una partida igualada en l\u00ednea.",
+            "tchinese": "\u5728ONLINE\u7684RANKED MATCH\u7372\u52dd",
+            "russian": "\u0412\u044b \u043e\u0434\u0435\u0440\u0436\u0430\u043b\u0438 \u043f\u043e\u0431\u0435\u0434\u0443 \u0432 \u0440\u0430\u043d\u0433\u043e\u0432\u043e\u0439 \u0438\u0433\u0440\u0435 \u043f\u043e \u0441\u0435\u0442\u0438.",
+            "japanese": "ONLINE\u306eRANKED MATCH\u3067\u52dd\u5229\u3057\u305f",
+            "arabic": "\u0627\u0644\u0641\u0648\u0632 \u0628\u0645\u0628\u0627\u0631\u0627\u0629 \u062a\u0631\u062a\u064a\u0628\u064a\u0629 \u0639\u0628\u0631 \u0627\u0644\u0625\u0646\u062a\u0631\u0646\u062a.",
+            "brazilian": "Venceu uma Partida por Ranking online.",
+            "token": "NEW_ACHIEVEMENT_1_1_DESC"
+        },
+        "icon": "e62e5a84d96ab64516e1a961df0d9ace8f204bf7.jpg",
+        "icon_gray": "28d7de98ea3d598871c6acb1e14d6497dffe71fd.jpg",
+        "name": "TK_ACH_01",
+        "progress": {
+            "min_val": "0",
+            "max_val": "1",
+            "value": {
+                "operation": "statvalue",
+                "operand1": "TKStatsRankMatchWin"
+            }
+        }
+    },
+    {
+        "hidden": "0",
+        "displayName": {
+            "english": "Not Bad",
+            "german": "Nicht schlecht",
+            "french": "Pas mal",
+            "italian": "Combattiamo ancora",
+            "koreana": "\uc88b\uc740 \uc2b9\ubd80\uc600\ub2e4",
+            "spanish": "No est\u00e1 mal",
+            "tchinese": "\u771f\u662f\u5834\u597d\u6bd4\u8cfd\uff0c\u4e0b\u6b21\u518d\u6703\u5427",
+            "russian": "\u041d\u0435\u043f\u043b\u043e\u0445\u043e",
+            "japanese": "\u3044\u3044\u52dd\u8ca0\u3060\u3063\u305f",
+            "arabic": "\u0647\u0630\u0627 \u0644\u064a\u0633 \u0633\u064a\u0626\u064b\u0627",
+            "brazilian": "Nada mal",
+            "token": "NEW_ACHIEVEMENT_1_2_NAME"
+        },
+        "description": {
+            "english": "Won a player match online.",
+            "german": "Online in Mitspieler-Suche gewonnen.",
+            "french": "Remporter un combat en Matchmaking d'amis.",
+            "italian": "Vinta una Partita del giocatore online.",
+            "koreana": "ONLINE\uc758 PLAYER MATCH\uc5d0\uc11c \uc2b9\ub9ac\ud588\ub2e4",
+            "spanish": "Has ganado una partida de jugador en l\u00ednea.",
+            "tchinese": "\u5728ONLINE\u7684PLAYER MATCH\u7372\u52dd",
+            "russian": "\u0412\u044b \u043e\u0434\u0435\u0440\u0436\u0430\u043b\u0438 \u043f\u043e\u0431\u0435\u0434\u0443 \u0432 \u0441\u0432\u043e\u0435\u0439 \u0438\u0433\u0440\u0435 \u043f\u043e \u0441\u0435\u0442\u0438.",
+            "japanese": "ONLINE\u306ePLAYER MATCH\u3067\u52dd\u5229\u3057\u305f",
+            "arabic": "\u0627\u0644\u0641\u0648\u0632 \u0628\u0645\u0628\u0627\u0631\u0627\u0629 \u0644\u0627\u0639\u0628\u064a\u0646 \u0639\u0628\u0631 \u0627\u0644\u0625\u0646\u062a\u0631\u0646\u062a.",
+            "brazilian": "Venceu uma partida com jogador online.",
+            "token": "NEW_ACHIEVEMENT_1_2_DESC"
+        },
+        "icon": "42bb4b4b3b47b1431056900237e2863da0327218.jpg",
+        "icon_gray": "b9d077976356b64b780e0759f9ca6c739c6cdd51.jpg",
+        "name": "TK_ACH_02",
+        "progress": {
+            "min_val": "0",
+            "max_val": "1",
+            "value": {
+                "operation": "statvalue",
+                "operand1": "TKStatsPlayerMatchWin"
+            }
+        }
+    },
+    {
+        "hidden": "0",
+        "displayName": {
+            "english": "Okay! I'm Ready!",
+            "german": "Okay! Ich bin bereit!",
+            "french": "Bien, je suis pr\u00eate\u00a0!",
+            "italian": "OK! Sono pronta!",
+            "koreana": "\uc88b\uc544, \uac04\ub2e4!",
+            "spanish": "\u00a1Vamos! \u00a1Todo listo!",
+            "tchinese": "\u597d\uff01\u4e0a\u5427\uff01",
+            "russian": "\u0412\u0441\u0451, \u044f \u0433\u043e\u0442\u043e\u0432\u0430!",
+            "japanese": "\u3088\u3057 \u884c\u304f\u3088!",
+            "arabic": "\u062d\u0633\u0646\u064b\u0627! \u0623\u0646\u0627 \u0639\u0644\u0649 \u0627\u0633\u062a\u0639\u062f\u0627\u062f!",
+            "brazilian": "OK! Pronto!",
+            "token": "NEW_ACHIEVEMENT_1_3_NAME"
+        },
+        "description": {
+            "english": "Won a battle in online tournament.",
+            "german": "Einen Kampf in einem Online-Turnier gewonnen.",
+            "french": "Remporter un combat dans un tournoi en ligne.",
+            "italian": "Vinta una battaglia in un torneo online.",
+            "koreana": "ONLINE\uc758 TOURNAMENT\uc5d0\uc11c \uc2b9\ub9ac\ud588\ub2e4",
+            "spanish": "Has ganado un combate en un torneo en l\u00ednea.",
+            "tchinese": "\u5728ONLINE\u7684TOURNAMENT\u7372\u52dd",
+            "russian": "\u0412\u044b \u043e\u0434\u0435\u0440\u0436\u0430\u043b\u0438 \u043f\u043e\u0431\u0435\u0434\u0443 \u0432 \u0431\u043e\u044e \u0441\u0435\u0442\u0435\u0432\u043e\u0433\u043e \u0442\u0443\u0440\u043d\u0438\u0440\u0430.",
+            "japanese": "ONLINE\u306eTOURNAMENT\u3067\u52dd\u5229\u3057\u305f",
+            "arabic": "\u0627\u0644\u0641\u0648\u0632 \u0628\u0645\u0628\u0627\u0631\u0627\u0629 \u0641\u0649 \u0628\u0637\u0648\u0644\u0629 \u0639\u0628\u0631 \u0627\u0644\u0625\u0646\u062a\u0631\u0646\u062a.",
+            "brazilian": "Venceu uma batalha em torneio online.",
+            "token": "NEW_ACHIEVEMENT_1_3_DESC"
+        },
+        "icon": "ccb200dd6e679f1ea06ff06c798b320bce4f2ac8.jpg",
+        "icon_gray": "cb15286e9017386310956975941fde7a4c96a5d4.jpg",
+        "name": "TK_ACH_03",
+        "progress": {
+            "min_val": "0",
+            "max_val": "1",
+            "value": {
+                "operation": "statvalue",
+                "operand1": "TKStatsOnlineTournamentWin"
+            }
+        }
+    },
+    {
+        "hidden": "0",
+        "displayName": {
+            "english": "Come And Get Some, I Dare You!",
+            "german": "Komm und hol's dir, wenn du dich traust!",
+            "french": "Viens te battre, si tu l'oses\u00a0!",
+            "italian": "Fatti sotto se hai il coraggio!",
+            "koreana": "\uc5bc\ub9c8\ub4e0\uc9c0 \ub364\ubcbc\ubcf4\ub77c\uace0!",
+            "spanish": "Ven si quieres pelea, \u00a1te reto!",
+            "tchinese": "\u96a8\u4fbf\u4f60\u5f9e\u54ea\u88e1\u4f86\u90fd\u884c\uff01",
+            "russian": "\u0427\u0442\u043e \u043d\u0438 \u0434\u0435\u043b\u0430\u0439, \u0432\u0441\u0451 \u0440\u0430\u0432\u043d\u043e \u043e\u0433\u0440\u0435\u0431\u0451\u0448\u044c!",
+            "japanese": "\u3069\u3053\u304b\u3089\u3067\u3082\u304b\u304b\u3063\u3066\u304d\u306a!",
+            "arabic": "\u062a\u0639\u0627\u0644 \u0648\u0648\u0627\u062c\u0647\u0646\u064a\u060c \u0623\u062a\u062d\u062f\u0627\u0643!",
+            "brazilian": "Venha me pegar, duvido!",
+            "token": "NEW_ACHIEVEMENT_1_4_NAME"
+        },
+        "description": {
+            "english": "Fought ten online battles.",
+            "german": "An zehn Online-K\u00e4mpfen teilgenommen.",
+            "french": "Participer \u00e0 dix combats en ligne.",
+            "italian": "Disputate dieci battaglie online.",
+            "koreana": "ONLINE\uc5d0\uc11c 10\ud68c \ub300\uc804\ud588\ub2e4",
+            "spanish": "Has luchado en diez combates en l\u00ednea.",
+            "tchinese": "\u5728ONLINE\u5c0d\u623010\u6b21",
+            "russian": "\u0412\u044b \u043f\u0440\u043e\u0432\u0435\u043b\u0438 \u0434\u0435\u0441\u044f\u0442\u044c \u0431\u043e\u0451\u0432 \u043f\u043e \u0441\u0435\u0442\u0438.",
+            "japanese": "ONLINE\u306710\u56de\u5bfe\u6226\u3057\u305f",
+            "arabic": "\u0642\u0627\u062a\u0644 \u0641\u064a \u0639\u0634\u0631 \u0645\u0639\u0627\u0631\u0643 \u0639\u0628\u0631 \u0627\u0644\u0625\u0646\u062a\u0631\u0646\u062a.",
+            "brazilian": "Lutou em dez torneios online.",
+            "token": "NEW_ACHIEVEMENT_1_4_DESC"
+        },
+        "icon": "80f21dd15460441032b022f62e4a53cd57c2205f.jpg",
+        "icon_gray": "87d7017e1c3ec8fce28aba1fd9ff45109907ec68.jpg",
+        "name": "TK_ACH_04",
+        "progress": {
+            "min_val": "0",
+            "max_val": "10",
+            "value": {
+                "operation": "statvalue",
+                "operand1": "TKStatsOnlineBattled"
+            }
+        }
+    },
+    {
+        "hidden": "0",
+        "displayName": {
+            "english": "Instant Annihilation",
+            "german": "Sofortige Vernichtung",
+            "french": "Destruction imm\u00e9diate",
+            "italian": "Distruzione istantanea",
+            "koreana": "\uc77c\uc21c\uac04\uc5d0 \uc12c\uba78",
+            "spanish": "Aniquilaci\u00f3n instant\u00e1nea",
+            "tchinese": "\u4e00\u77ac\u6bb2\u6ec5",
+            "russian": "\u041c\u0433\u043d\u043e\u0432\u0435\u043d\u043d\u043e\u0435 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0435\u043d\u0438\u0435",
+            "japanese": "\u4e00\u77ac\u6bb2\u6ec5",
+            "arabic": "\u0625\u0628\u0627\u062f\u0629 \u0641\u0648\u0631\u064a\u0629",
+            "brazilian": "Aniquila\u00e7\u00e3o instant\u00e2nea",
+            "token": "NEW_ACHIEVEMENT_1_7_NAME"
+        },
+        "description": {
+            "english": "Won three times consecutively in Treasure Battle.",
+            "german": "Dreimal hintereinander im Treasure-Kampf gewonnen.",
+            "french": "Remporter trois Combats au tr\u00e9sor d'affil\u00e9e.",
+            "italian": "Tre vittorie consecutive in Battaglia tesoro.",
+            "koreana": "TREASURE BATTLE\uc5d0\uc11c 3\uc5f0\uc2b9\ud588\ub2e4",
+            "spanish": "Has ganado tres Combates de tesoro seguidos.",
+            "tchinese": "\u5728TREASURE BATTLE\u7372\u5f973\u9023\u52dd",
+            "russian": "\u0412\u044b \u043e\u0434\u0435\u0440\u0436\u0430\u043b\u0438 \u0442\u0440\u0438 \u043f\u043e\u0431\u0435\u0434\u044b \u043f\u043e\u0434\u0440\u044f\u0434 \u0432 \u0431\u043e\u044f\u0445 \u0437\u0430 \u0441\u043e\u043a\u0440\u043e\u0432\u0438\u0449\u0430.",
+            "japanese": "TREASURE BATTLE\u30673\u9023\u52dd\u3057\u305f",
+            "arabic": "\u0627\u0644\u0641\u0648\u0632 \u0641\u064a \u062b\u0644\u0627\u062a \u0645\u0631\u0627\u062a \u0645\u062a\u062a\u0627\u0644\u064a\u0629 \u0641\u064a \u0645\u0639\u0631\u0643\u0629 \u0627\u0644\u0643\u0646\u0632.",
+            "brazilian": "Venceu a Batalha por Tesouro tr\u00eas vezes seguidas.",
+            "token": "NEW_ACHIEVEMENT_1_7_DESC"
+        },
+        "icon": "8300b33e8fca2cb23f1f36d135f9aa1714edc8e4.jpg",
+        "icon_gray": "6a166c7d3cb4ad497f8a4cab4b65a42452312003.jpg",
+        "name": "TK_ACH_07",
+        "progress": {
+            "min_val": "0",
+            "max_val": "1",
+            "value": {
+                "operation": "statvalue",
+                "operand1": "TKStatsTreasureBattle3Win"
+            }
+        }
+    },
+    {
+        "hidden": "0",
+        "displayName": {
+            "english": "Wow, I'm Pretty Strong!",
+            "german": "Wow, ich bin ziemlich stark!",
+            "french": "Oh, l\u00e0, l\u00e0\u00a0! Qu'est-ce que je suis forte\u00a0!",
+            "italian": "Wow, sono davvero forte!",
+            "koreana": "\uc5b4\uc9f8\uc11c \ub09c \uc774\ub807\uac8c \uac15\ud55c \uac78\uae4c?",
+            "spanish": "\u00a1Vaya, qu\u00e9 fuerte soy!",
+            "tchinese": "\u6211\u53ef\u662f\u9019\u9ebc\u53b2\u5bb3\u5462",
+            "russian": "\u041e\u0433\u043e, \u043a\u0430\u043a\u0430\u044f \u044f \u0441\u0438\u043b\u044c\u043d\u0430\u044f!",
+            "japanese": "\u306a\u3057\u3066\u79c1 \u3053\u3093\u306a\u306b\u5f37\u3044\u306e",
+            "arabic": "\u0631\u0627\u0626\u0639\u060c \u0623\u0646\u0627 \u0641\u064a \u063a\u0627\u064a\u0629 \u0627\u0644\u0642\u0648\u0629!",
+            "brazilian": "Uau, sou bem forte!",
+            "token": "NEW_ACHIEVEMENT_1_8_NAME"
+        },
+        "description": {
+            "english": "Won three special matches in Treasure Battle.",
+            "german": "Drei Spezialk\u00e4mpfe im Treasure-Kampf gewonnen.",
+            "french": "Remporter trois Matchs sp\u00e9ciaux en Combat au tr\u00e9sor.",
+            "italian": "Vinti tre match speciali in Battaglia tesoro.",
+            "koreana": "TREASURE BATTLE\uc758 \uc2a4\ud398\uc15c \ub9e4\uce58\uc5d0\uc11c 3\ud68c \uc2b9\ub9ac\ud588\ub2e4",
+            "spanish": "Has ganado tres combates especiales en Combates de tesoro.",
+            "tchinese": "\u5728TREASURE BATTLE\u7684\u7279\u5225\u5c0d\u6230\u7372\u52dd3\u6b21",
+            "russian": "\u0412\u044b \u043e\u0434\u0435\u0440\u0436\u0430\u043b\u0438 \u0442\u0440\u0438 \u043f\u043e\u0431\u0435\u0434\u044b \u0432 \u043e\u0441\u043e\u0431\u044b\u0445 \u0431\u043e\u044f\u0445 \u0437\u0430 \u0441\u043e\u043a\u0440\u043e\u0432\u0438\u0449\u0430.",
+            "japanese": "TREASURE BATTLE\u306e\u30b9\u30da\u30b7\u30e3\u30eb\u30de\u30c3\u30c1\u30673\u56de\u52dd\u5229\u3057\u305f",
+            "arabic": "\u0627\u0644\u0641\u0648\u0632 \u0641\u064a \u062b\u0644\u0627\u062b \u0645\u0628\u0627\u0631\u064a\u0627\u062a \u062e\u0627\u0635\u0629 \u0641\u064a \u0645\u0639\u0631\u0643\u0629 \u0627\u0644\u0643\u0646\u0632.",
+            "brazilian": "Venceu tr\u00eas partidas especiais na Batalha por Tesouro.",
+            "token": "NEW_ACHIEVEMENT_1_8_DESC"
+        },
+        "icon": "6086dc92a0a376ad56ab04ba1e4e847af6880ed5.jpg",
+        "icon_gray": "b8d5ffe102e8967588bd8a15b32804dad4ec215c.jpg",
+        "name": "TK_ACH_08",
+        "progress": {
+            "min_val": "0",
+            "max_val": "3",
+            "value": {
+                "operation": "statvalue",
+                "operand1": "TKStatsTreasureSpecialMatchWin"
+            }
+        }
+    },
+    {
+        "hidden": "0",
+        "displayName": {
+            "english": "Cool!",
+            "german": "Cool!",
+            "french": "Cool\u00a0!",
+            "italian": "Spettacolo!",
+            "koreana": "\ub0b4\uac00 \uc774\uacbc\ub124.",
+            "spanish": "\u00a1Guay!",
+            "tchinese": "\u592a\u597d\u4e86\uff01",
+            "russian": "\u041a\u043b\u0451\u0432\u043e!",
+            "japanese": "\u3084\u3063\u305f\u306d",
+            "arabic": "\u0631\u0627\u0626\u0639!",
+            "brazilian": "Legal!",
+            "token": "NEW_ACHIEVEMENT_1_9_NAME"
+        },
+        "description": {
+            "english": "Obtained 20 treasure boxes.",
+            "german": "20 Schatzkisten erhalten.",
+            "french": "Obtenir 20 Coffres au tr\u00e9sor.",
+            "italian": "Ottenuti 20 scrigni.",
+            "koreana": "\ud2b8\ub808\uc800 \ubc15\uc2a4\ub97c 20\uac1c \ud68d\ub4dd\ud588\ub2e4",
+            "spanish": "Has obtenido 20 cofres del tesoro.",
+            "tchinese": "\u7372\u5f9720\u500b\u5bf6\u7bb1",
+            "russian": "\u0412\u044b \u043f\u043e\u043b\u0443\u0447\u0438\u043b\u0438 20 \u0441\u0443\u043d\u0434\u0443\u043a\u043e\u0432 \u0441 \u0441\u043e\u043a\u0440\u043e\u0432\u0438\u0449\u0430\u043c\u0438.",
+            "japanese": "\u30c8\u30ec\u30b8\u30e3\u30fc\u30dc\u30c3\u30af\u30b9\u309220\u500b\u7372\u5f97\u3057\u305f",
+            "arabic": "\u0627\u0644\u062d\u0635\u0648\u0644 \u0639\u0644\u0649 20 \u0645\u0646 \u0635\u0646\u0627\u062f\u064a\u0642 \u0627\u0644\u0643\u0646\u0632.",
+            "brazilian": "Obteve 20 ba\u00fas do tesouro.",
+            "token": "NEW_ACHIEVEMENT_1_9_DESC"
+        },
+        "icon": "9b21650e50cd14977645cce39f802ef7a3e1eeec.jpg",
+        "icon_gray": "d595b7eb004697647080dc647f6ea069827dd3ea.jpg",
+        "name": "TK_ACH_09",
+        "progress": {
+            "min_val": "0",
+            "max_val": "20",
+            "value": {
+                "operation": "statvalue",
+                "operand1": "TKStatsAcquiredTreasure"
+            }
+        }
+    },
+    {
+        "hidden": "0",
+        "displayName": {
+            "english": "Let's Do This",
+            "german": "Los geht's",
+            "french": "Allons-y !",
+            "italian": "Forza!",
+            "koreana": "\uc5b4\ub514 \ud55c \ubc88 \ud574\ubcfc\uae4c",
+            "spanish": "Vamos all\u00e1",
+            "tchinese": "\u958b\u59cb\u5427",
+            "russian": "\u041f\u043e\u0440\u0430",
+            "japanese": "\u59cb\u3081\u308b\u3068\u3059\u308b\u304b",
+            "arabic": "\u0641\u0644\u0646\u0642\u0645 \u0628\u0647\u0630\u0627",
+            "brazilian": "Vamos l\u00e1",
+            "token": "NEW_ACHIEVEMENT_1_10_NAME"
+        },
+        "description": {
+            "english": "Finished Chapter 1 of the main story.",
+            "german": "Kapitel 1 der Hauptstory abgeschlossen.",
+            "french": "Terminer le Chapitre 1 de l'histoire principale.",
+            "italian": "Completato il capitolo 1 della Storia principale.",
+            "koreana": "STORY\uc758 MAIN STORY\uc5d0\uc11c CHAPTER1\uc744 \ud074\ub9ac\uc5b4\ud588\ub2e4",
+            "spanish": "Has finalizado el cap\u00edtulo 1 de la historia principal.",
+            "tchinese": "\u901a\u904eSTORY\u7684MAIN STORY Chapter 1",
+            "russian": "\u0412\u044b \u0437\u0430\u0432\u0435\u0440\u0448\u0438\u043b\u0438 \u0433\u043b\u0430\u0432\u0443 1 \u043e\u0441\u043d\u043e\u0432\u043d\u043e\u0433\u043e \u0441\u044e\u0436\u0435\u0442\u0430.",
+            "japanese": "STORY\u306eMAIN STORY\u3067CHAPTER1\u3092\u30af\u30ea\u30a2\u3057\u305f",
+            "arabic": "\u0625\u0646\u0647\u0627\u0621 \u0627\u0644\u0641\u0635\u0644 1 \u0645\u0646 \u0627\u0644\u0642\u0635\u0629 \u0627\u0644\u0631\u0626\u064a\u0633\u064a\u0629.",
+            "brazilian": "Concluiu o Cap\u00edtulo 1 da hist\u00f3ria principal.",
+            "token": "NEW_ACHIEVEMENT_1_10_DESC"
+        },
+        "icon": "9a78a9e27e9a327c031a9e247cc447de403ac76f.jpg",
+        "icon_gray": "e931401cf55ad61180396be7fded0086ef36915d.jpg",
+        "name": "TK_ACH_10",
+        "progress": {
+            "min_val": "0",
+            "max_val": "1",
+            "value": {
+                "operation": "statvalue",
+                "operand1": "TKStatsStoryModeChap1Cleared"
+            }
+        }
+    },
+    {
+        "hidden": "0",
+        "displayName": {
+            "english": "You Think You're Tougher Than Me?",
+            "german": "Glaubst du, du bist h\u00e4rter als ich?",
+            "french": "Tu te crois capable de me battre\u00a0?",
+            "italian": "Pensi di essere pi\u00f9 forte di me?",
+            "koreana": "\ub124\uae4c\uc9d3 \uac8c \ub0a0 \uc0c1\ub300\ud558\uaca0\ub2e4\ub294 \uac70\ub0d0?",
+            "spanish": "\u00bfAcaso te crees m\u00e1s fuerte que yo?",
+            "tchinese": "\u4f60\u4ee5\u70ba\u4f60\u80fd\u6253\u5012\u6211\u55ce\uff1f",
+            "russian": "\u0414\u0443\u043c\u0430\u0435\u0448\u044c, \u0442\u044b \u043c\u043e\u0436\u0435\u0448\u044c \u0441\u043e \u043c\u043d\u043e\u0439 \u0442\u044f\u0433\u0430\u0442\u044c\u0441\u044f?",
+            "japanese": "\u30ef\u30b7\u3092\u5012\u305b\u308b\u3068\u3067\u3082\u601d\u3063\u3066\u304a\u308b\u306e\u304b?",
+            "arabic": "\u0623\u062a\u0639\u062a\u0642\u062f \u0623\u0646\u0643 \u0623\u0642\u0648\u0649 \u0645\u0646\u064a\u061f",
+            "brazilian": "Acha que \u00e9 mais forte do que eu?",
+            "token": "NEW_ACHIEVEMENT_1_11_NAME"
+        },
+        "description": {
+            "english": "Finished the prologue of the main story.",
+            "german": "Prolog der Hauptstory abgeschlossen.",
+            "french": "Terminer le prologue de l'histoire principale.",
+            "italian": "Completato il prologo della Storia principale.",
+            "koreana": "STORY\uc758 MAIN STORY\uc5d0\uc11c PROLOGUE\ub97c \ud074\ub9ac\uc5b4\ud588\ub2e4",
+            "spanish": "Has finalizado el pr\u00f3logo de la historia principal.",
+            "tchinese": "\u901a\u904eSTORY\u7684MAIN STORY PROLOGUE",
+            "russian": "\u0412\u044b \u0437\u0430\u0432\u0435\u0440\u0448\u0438\u043b\u0438 \u043f\u0440\u043e\u043b\u043e\u0433 \u043e\u0441\u043d\u043e\u0432\u043d\u043e\u0433\u043e \u0441\u044e\u0436\u0435\u0442\u0430.",
+            "japanese": "STORY\u306eMAIN STORY\u3067PROLOGUE\u3092\u30af\u30ea\u30a2\u3057\u305f",
+            "arabic": "\u0623\u0646\u0647\u064a\u062a \u0627\u0644\u0645\u0642\u062f\u0645\u0629 \u0645\u0646 \u0627\u0644\u0642\u0635\u0629 \u0627\u0644\u0631\u0626\u064a\u0633\u064a\u0629.",
+            "brazilian": "Concluiu o pr\u00f3logo da hist\u00f3ria principal.",
+            "token": "NEW_ACHIEVEMENT_1_11_DESC"
+        },
+        "icon": "13b5765ca14f9f6b8fa26aae98ee40b10879e3e1.jpg",
+        "icon_gray": "5a4fc92b7382e4d39c571bdb239d602ce430ef45.jpg",
+        "name": "TK_ACH_11",
+        "progress": {
+            "min_val": "0",
+            "max_val": "1",
+            "value": {
+                "operation": "statvalue",
+                "operand1": "TKStatsStoryModeChap0Cleared"
+            }
+        }
+    },
+    {
+        "hidden": "0",
+        "displayName": {
+            "english": "You Challenge Me?!",
+            "german": "Du forderst mich heraus?!",
+            "french": "Tu oses me d\u00e9fier\u00a0?!",
+            "italian": "Vuoi sfidarmi?",
+            "koreana": "\ub098\uc5d0\uac8c \ub3c4\uc804\ud558\ub294\uac00\u2026.",
+            "spanish": "\u00a1\u00bfMe est\u00e1s desafiando?!",
+            "tchinese": "\u8981\u4f86\u6311\u6230\u6211\u554a\u2026",
+            "russian": "\u0412\u044b\u0437\u044b\u0432\u0430\u0435\u0448\u044c \u043c\u0435\u043d\u044f?",
+            "japanese": "\u6211\u306b\u6311\u3080\u304b\u2026",
+            "arabic": "\u0647\u0644 \u062a\u062a\u062d\u062f\u0627\u0646\u064a\u061f",
+            "brazilian": "Quer me desafiar?",
+            "token": "NEW_ACHIEVEMENT_1_12_NAME"
+        },
+        "description": {
+            "english": "Finished Chapter 8 of the main story.",
+            "german": "Kapitel 8 der Hauptstory abgeschlossen.",
+            "french": "Terminer le Chapitre 8 de l'histoire principale.",
+            "italian": "Completato il capitolo 8 della Storia principale.",
+            "koreana": "STORY\uc758 MAIN STORY\uc5d0\uc11c CHAPTER8\uc744 \ud074\ub9ac\uc5b4\ud588\ub2e4",
+            "spanish": "Has finalizado el cap\u00edtulo 8 de la historia principal.",
+            "tchinese": "\u901a\u904eSTORY\u7684MAIN STORY Chapter 8",
+            "russian": "\u0412\u044b \u0437\u0430\u0432\u0435\u0440\u0448\u0438\u043b\u0438 \u0433\u043b\u0430\u0432\u0443 8 \u043e\u0441\u043d\u043e\u0432\u043d\u043e\u0433\u043e \u0441\u044e\u0436\u0435\u0442\u0430.",
+            "japanese": "STORY\u306eMAIN STORY\u3067CHAPTER8\u3092\u30af\u30ea\u30a2\u3057\u305f",
+            "arabic": "\u0625\u0646\u0647\u0627\u0621 \u0627\u0644\u0641\u0635\u0644 8 \u0645\u0646 \u0627\u0644\u0642\u0635\u0629 \u0627\u0644\u0631\u0626\u064a\u0633\u064a\u0629.",
+            "brazilian": "Concluiu o Cap\u00edtulo 8 da hist\u00f3ria principal.",
+            "token": "NEW_ACHIEVEMENT_1_12_DESC"
+        },
+        "icon": "63d838c3fe8f471a72442f185b63393fcd26b33f.jpg",
+        "icon_gray": "5fec727af89884c4a922c40d2c7b753d4be4bde4.jpg",
+        "name": "TK_ACH_12",
+        "progress": {
+            "min_val": "0",
+            "max_val": "1",
+            "value": {
+                "operation": "statvalue",
+                "operand1": "TKStatsStoryModeChap8Cleared"
+            }
+        }
+    },
+    {
+        "hidden": "0",
+        "displayName": {
+            "english": "I Can't Accept This Fate",
+            "german": "Dieses Schicksal kann ich nicht akzeptieren.",
+            "french": "Je ne puis accepter un tel sort",
+            "italian": "Non posso accettare questo destino",
+            "koreana": "\uacf5\uc874\ud560 \uc218 \uc5c6\ub294 \uc6b4\uba85\uc778 \uac70\uc608\uc694",
+            "spanish": "No aceptar\u00e9 este destino",
+            "tchinese": "\u9019\u662f\u7121\u6cd5\u76f8\u5bb9\u7684\u547d\u904b",
+            "russian": "\u042f \u043d\u0435 \u043c\u043e\u0433\u0443 \u043f\u0440\u0438\u043d\u044f\u0442\u044c \u044d\u0442\u0443 \u0441\u0443\u0434\u044c\u0431\u0443",
+            "japanese": "\u76f8\u5bb9\u308c\u306a\u3044\u904b\u547d\u306a\u306e\u3067\u3059",
+            "arabic": "\u0644\u0627 \u064a\u0645\u0643\u0646\u0646\u064a \u0642\u0628\u0648\u0644 \u0647\u0630\u0627 \u0627\u0644\u0645\u0635\u064a\u0631",
+            "brazilian": "N\u00e3o posso aceitar esse destino",
+            "token": "NEW_ACHIEVEMENT_1_13_NAME"
+        },
+        "description": {
+            "english": "Finished Chapter 13 of the main story.",
+            "german": "Kapitel 13 der Hauptstory abgeschlossen.",
+            "french": "Terminer le Chapitre 13 de l'histoire principale.",
+            "italian": "Completato il capitolo 13 della Storia principale.",
+            "koreana": "STORY\uc758 MAIN STORY\uc5d0\uc11c CHAPTER13\uc744 \ud074\ub9ac\uc5b4\ud588\ub2e4",
+            "spanish": "Has finalizado el cap\u00edtulo 13 de la historia principal.",
+            "tchinese": "\u901a\u904eSTORY\u7684MAIN STORY Chapter 13",
+            "russian": "\u0412\u044b \u0437\u0430\u0432\u0435\u0440\u0448\u0438\u043b\u0438 \u0433\u043b\u0430\u0432\u0443 13 \u043e\u0441\u043d\u043e\u0432\u043d\u043e\u0433\u043e \u0441\u044e\u0436\u0435\u0442\u0430.",
+            "japanese": "STORY\u306eMAIN STORY\u3067CHAPTER13\u3092\u30af\u30ea\u30a2\u3057\u305f",
+            "arabic": "\u0625\u0646\u0647\u0627\u0621 \u0627\u0644\u0641\u0635\u0644 13 \u0645\u0646 \u0627\u0644\u0642\u0635\u0629 \u0627\u0644\u0631\u0626\u064a\u0633\u064a\u0629.",
+            "brazilian": "Concluiu o Cap\u00edtulo 13 da hist\u00f3ria principal.",
+            "token": "NEW_ACHIEVEMENT_1_13_DESC"
+        },
+        "icon": "596891ace6670c6a6babbecfae9e80063fa1d81c.jpg",
+        "icon_gray": "4e90ca7fd6f364c200c481700e90548eb8717ae2.jpg",
+        "name": "TK_ACH_13",
+        "progress": {
+            "min_val": "0",
+            "max_val": "1",
+            "value": {
+                "operation": "statvalue",
+                "operand1": "TKStatsStoryModeChap13Cleared"
+            }
+        }
+    },
+    {
+        "hidden": "0",
+        "displayName": {
+            "english": "It's Time For You To Meet Your End!",
+            "german": "Zeit, deinem Sch\u00f6pfer zu begegnen.",
+            "french": "L'heure est venue pour toi de mourir\u00a0!",
+            "italian": "\u00c8 giunta la tua fine!",
+            "koreana": "\uc5ec\uae30\uac00 \ub124 \ubb34\ub364\uc774 \ub420 \uac83\uc774\ub2e4",
+            "spanish": "\u00a1Se acerca tu fin!",
+            "tchinese": "\u5728\u9019\u89e3\u6c7a\u4f60\uff01",
+            "russian": "\u0412\u0437\u0433\u043b\u044f\u043d\u0438 \u0441\u0432\u043e\u0435\u0439 \u0441\u043c\u0435\u0440\u0442\u0438 \u0432 \u043b\u0438\u0446\u043e!",
+            "japanese": "\u8cb4\u69d8\u3092\u3053\u3053\u3067\u7d42\u308f\u3089\u305b\u308b!",
+            "arabic": "\u062d\u0627\u0646 \u0648\u0642\u062a \u0646\u0647\u0627\u064a\u062a\u0643!",
+            "brazilian": "\u00c9 hora de encontrar seu fim!",
+            "token": "NEW_ACHIEVEMENT_1_14_NAME"
+        },
+        "description": {
+            "english": "Watched the epilogue of the main story.",
+            "german": "Epilog der Hauptstory angesehen.",
+            "french": "Regarder l\u2019\u00e9pilogue de l\u2019histoire principale.",
+            "italian": "Visto l'epilogo della Storia principale.",
+            "koreana": "STORY\uc758 MAIN STORY\uc5d0\uc11c EPILOGUE\ub97c \ubd24\ub2e4.",
+            "spanish": "Has visto el ep\u00edlogo de la historia principal.",
+            "tchinese": "\u89c0\u770bSTORY\u5167\uff0cMAIN STORY\u7684EPILOGUE",
+            "russian": "\u0412\u044b \u043f\u0440\u043e\u0441\u043c\u043e\u0442\u0440\u0435\u043b\u0438 \u044d\u043f\u0438\u043b\u043e\u0433 \u043e\u0441\u043d\u043e\u0432\u043d\u043e\u0433\u043e \u0441\u044e\u0436\u0435\u0442\u0430.",
+            "japanese": "STORY\u306eMAIN STORY\u3067EPILOGUE\u3092\u898b\u305f",
+            "arabic": "\u0634\u0627\u0647\u062f\u062a \u062e\u0627\u062a\u0645\u0629 \u0627\u0644\u0642\u0635\u0629 \u0627\u0644\u0631\u0626\u064a\u0633\u064a\u0629.",
+            "brazilian": "Assistiu ao ep\u00edlogo da hist\u00f3ria principal.",
+            "token": "NEW_ACHIEVEMENT_1_14_DESC"
+        },
+        "icon_gray": "0cb0fc56133193e27ce8dd37a786e03aa4a01bd5.jpg",
+        "icon": "8140fc1ea56826def8c17fe4fec96531f378ec72.jpg",
+        "name": "TK_ACH_14",
+        "progress": {
+            "min_val": "0",
+            "max_val": "1",
+            "value": {
+                "operation": "statvalue",
+                "operand1": "TKStatsStoryModeChapAllCleared"
+            }
+        }
+    },
+    {
+        "hidden": "0",
+        "displayName": {
+            "english": "I Demand To Know The Truth!",
+            "german": "Ich verlange, die Wahrheit zu erfahren!",
+            "french": "J'exige de savoir la v\u00e9rit\u00e9\u00a0!",
+            "italian": "Voglio sapere la verit\u00e0!",
+            "koreana": "\uc9c4\uc2e4\uc740 \ub0b4\uac00 \ubc1d\ud788\uaca0\ub2e4!",
+            "spanish": "\u00a1Exijo conocer la verdad!",
+            "tchinese": "\u6211\u8981\u63ed\u9732\u771f\u76f8\uff01",
+            "russian": "\u041c\u043d\u0435 \u043d\u0443\u0436\u043d\u0430 \u043b\u0438\u0448\u044c \u043f\u0440\u0430\u0432\u0434\u0430!",
+            "japanese": "\u771f\u5b9f\u306f\u4ffa\u304c\u66b4\u304f!",
+            "arabic": "\u0623\u0631\u064a\u062f \u0645\u0639\u0631\u0641\u0629 \u0627\u0644\u062d\u0642\u064a\u0642\u0629!",
+            "brazilian": "Eu exijo saber a verdade!",
+            "token": "NEW_ACHIEVEMENT_1_15_NAME"
+        },
+        "description": {
+            "english": "Finished three Character Episode stories.",
+            "german": "Drei Charakter-Episoden abgeschlossen.",
+            "french": "Terminer trois \u00c9pisodes de personnages.",
+            "italian": "Completati tre Episodi personaggio.",
+            "koreana": "STORY\uc758 CHARACTER EPISODE\uc5d0\uc11c 3\uc885\ub958\uc758 \uc5d0\ud53c\uc18c\ub4dc\ub97c \ud074\ub9ac\uc5b4\ud588\ub2e4",
+            "spanish": "Has finalizado tres historias de episodios de personaje.",
+            "tchinese": "\u901a\u904e3\u7a2eSTORY\u7684CHARACTER EPISODE",
+            "russian": "\u0412\u044b \u0437\u0430\u0432\u0435\u0440\u0448\u0438\u043b\u0438 \u0442\u0440\u0438 \u044d\u043f\u0438\u0437\u043e\u0434\u0430 \u043e \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u0436\u0430\u0445.",
+            "japanese": "STORY\u306eCHARACTER EPISODE\u30673\u7a2e\u985e\u306e\u30a8\u30d4\u30bd\u30fc\u30c9\u3092\u30af\u30ea\u30a2\u3057\u305f",
+            "arabic": "\u0625\u0646\u0647\u0627\u0621 \u062b\u0644\u0627\u062b \u0642\u0635\u0635 \u0645\u0646 \u062d\u0644\u0642\u0627\u062a \u0627\u0644\u0634\u062e\u0635\u064a\u0627\u062a.",
+            "brazilian": "Concluiu tr\u00eas hist\u00f3rias de Epis\u00f3dios dos Personagens.",
+            "token": "NEW_ACHIEVEMENT_1_15_DESC"
+        },
+        "icon": "75d0a95310f5f2e7aaab9c4fd61e8302eeb77742.jpg",
+        "icon_gray": "fb18fb62083b53338f8ffdedacc8b67f5cf98307.jpg",
+        "name": "TK_ACH_15",
+        "progress": {
+            "min_val": "0",
+            "max_val": "3",
+            "value": {
+                "operation": "statvalue",
+                "operand1": "TKStatsStoryModeEpisodeCleared"
+            }
+        }
+    },
+    {
+        "hidden": "0",
+        "displayName": {
+            "english": "Lightning Of Fate",
+            "german": "Blitz des Schicksals.",
+            "french": "L'\u00e9clair du destin",
+            "italian": "Luce del destino",
+            "koreana": "\uc6b4\uba85\uc758 \ubc88\uac1c",
+            "spanish": "Rel\u00e1mpago del destino",
+            "tchinese": "\u547d\u904b\u9583\u96fb",
+            "russian": "\u041c\u043e\u043b\u043d\u0438\u044f \u0441\u0443\u0434\u044c\u0431\u044b",
+            "japanese": "\u904b\u547d\u306e\u7a32\u59bb",
+            "arabic": "\u0628\u0631\u0642 \u0627\u0644\u0645\u0635\u064a\u0631",
+            "brazilian": "Rel\u00e2mpago do destino",
+            "token": "NEW_ACHIEVEMENT_1_16_NAME"
+        },
+        "description": {
+            "english": "Finished 10 Character Episode stories.",
+            "german": "10 Charakter-Episoden abgeschlossen.",
+            "french": "Terminer dix \u00c9pisodes de personnages.",
+            "italian": "Completati dieci Episodi personaggio.",
+            "koreana": "STORY\uc758 CHARACTER EPISODE\uc5d0\uc11c 10\uc885\ub958\uc758 \uc5d0\ud53c\uc18c\ub4dc\ub97c \ud074\ub9ac\uc5b4\ud588\ub2e4",
+            "spanish": "Has finalizado diez historias de episodios de personaje.",
+            "tchinese": "\u901a\u904e10\u7a2eSTORY\u7684CHARACTER EPISODE",
+            "russian": "\u0412\u044b \u0437\u0430\u0432\u0435\u0440\u0448\u0438\u043b\u0438 10 \u044d\u043f\u0438\u0437\u043e\u0434\u043e\u0432 \u043e \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u0436\u0430\u0445.",
+            "japanese": "STORY\u306eCHARACTER EPISODE\u306710\u7a2e\u985e\u306e\u30a8\u30d4\u30bd\u30fc\u30c9\u3092\u30af\u30ea\u30a2\u3057\u305f",
+            "arabic": "\u0625\u0646\u0647\u0627\u0621 10 \u0642\u0635\u0635 \u0645\u0646 \u062d\u0644\u0642\u0627\u062a \u0627\u0644\u0634\u062e\u0635\u064a\u0627\u062a.",
+            "brazilian": "Concluiu 10 hist\u00f3rias de Epis\u00f3dios dos Personagens.",
+            "token": "NEW_ACHIEVEMENT_1_16_DESC"
+        },
+        "icon": "e3b20e0d940d88ccbddb09eb87eedad906c7a1bf.jpg",
+        "icon_gray": "b098c97ddd8a1f415b8302f37c1c0ec2022b80ac.jpg",
+        "name": "TK_ACH_16",
+        "progress": {
+            "min_val": "0",
+            "max_val": "10",
+            "value": {
+                "operation": "statvalue",
+                "operand1": "TKStatsStoryModeEpisodeCleared"
+            }
+        }
+    },
+    {
+        "hidden": "0",
+        "displayName": {
+            "english": "No Pain, No Gain",
+            "german": "Ohne Flei\u00df kein Preis.",
+            "french": "Qui ne risque rien n'a rien",
+            "italian": "Senza sofferenza non si ottiene nulla",
+            "koreana": "\uace0\ud1b5 \uc5c6\uc778 \ub300\uac00\ub3c4 \uc5c6\ub2e4!",
+            "spanish": "Cueste lo que cueste",
+            "tchinese": "\u6c92\u6709\u52aa\u529b\u5c31\u6c92\u6709\u9032\u6b65\uff01",
+            "russian": "\u0411\u0435\u0437 \u0442\u0440\u0443\u0434\u0430 \u043d\u0435 \u0432\u044b\u043b\u043e\u0432\u0438\u0448\u044c \u0438 \u0440\u044b\u0431\u043a\u0443 \u0438\u0437 \u043f\u0440\u0443\u0434\u0430",
+            "japanese": "\u52aa\u529b\u306a\u304f\u3057\u3066\u5411\u4e0a\u306a\u3057!",
+            "arabic": "\u0644\u0627 \u0646\u062c\u0627\u062d \u0628\u0644\u0627 \u0623\u0644\u0645",
+            "brazilian": "Sem dor, sem resultado",
+            "token": "NEW_ACHIEVEMENT_1_17_NAME"
+        },
+        "description": {
+            "english": "Dealt 50,000 damage in Practice mode.",
+            "german": "50.000 Schaden im Trainingsmodus verursacht.",
+            "french": "Infliger 50\u00a0000 points de d\u00e9g\u00e2ts en mode Entra\u00eenement.",
+            "italian": "Inflitti 50.000 danni in modalit\u00e0 Pratica.",
+            "koreana": "PRACTICE\uc5d0\uc11c \ub204\uacc4 50,000 \ub300\ubbf8\uc9c0\ub97c \uc92c\ub2e4",
+            "spanish": "Has infligido 50\u00a0000 de da\u00f1o en el modo de pr\u00e1ctica.",
+            "tchinese": "\u5728PRACTICE\u4e2d\u7d2f\u8a08\u7d66\u4e8850,000\u640d\u50b7",
+            "russian": "\u0412\u044b \u043d\u0430\u043d\u0435\u0441\u043b\u0438 50 000 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u0432 \u0440\u0435\u0436\u0438\u043c\u0435 \u0442\u0440\u0435\u043d\u0438\u0440\u043e\u0432\u043a\u0438.",
+            "japanese": "PRACTICE\u3067\u7d2f\u8a0850,000\u30c0\u30e1\u30fc\u30b8\u4e0e\u3048\u305f",
+            "arabic": "\u0625\u062d\u062f\u0627\u062b 50,000 \u0645\u0646 \u0627\u0644\u0636\u0631\u0631 \u0641\u064a \u0648\u0636\u0639 \u0627\u0644\u062a\u062f\u0631\u064a\u0628.",
+            "brazilian": "Causou 50.000 de dano no modo Treino.",
+            "token": "NEW_ACHIEVEMENT_1_17_DESC"
+        },
+        "icon": "28d06de9bdf3910daf06bf1a98edf4ba05d2432f.jpg",
+        "icon_gray": "951827c45de2de15bcd627af9eef9e24c43a6e18.jpg",
+        "name": "TK_ACH_17",
+        "progress": {
+            "min_val": "0",
+            "max_val": "50000",
+            "value": {
+                "operation": "statvalue",
+                "operand1": "TKStatsPracticeDamage"
+            }
+        }
+    },
+    {
+        "hidden": "0",
+        "displayName": {
+            "english": "I've Finally Found You!",
+            "german": "Endlich hab ich dich gefunden!",
+            "french": "J'ai fini par te trouver\u00a0!",
+            "italian": "Finalmente ti ho trovato!",
+            "koreana": "\ub4dc\ub514\uc5b4 \ucc3e\uc558\ub2e4!",
+            "spanish": "\u00a1Por fin te encuentro!",
+            "tchinese": "\u7e3d\u7b97\u627e\u5230\u4f60\u4e86\u554a\uff01",
+            "russian": "\u041d\u0430\u043a\u043e\u043d\u0435\u0446-\u0442\u043e \u044f \u0442\u0435\u0431\u044f \u043d\u0430\u0448\u0451\u043b!",
+            "japanese": "\u3084\u3063\u3068\u898b\u3064\u3051\u305f\u305c!",
+            "arabic": "\u0644\u0642\u062f \u0648\u062c\u062f\u062a\u0643 \u0623\u062e\u064a\u0631\u064b\u0627!",
+            "brazilian": "Finalmente te encontrei!",
+            "token": "NEW_ACHIEVEMENT_1_18_NAME"
+        },
+        "description": {
+            "english": "Obtained 50 treasure boxes.",
+            "german": "50 Schatzkisten erhalten.",
+            "french": "Obtenir 50 Coffres au tr\u00e9sor.",
+            "italian": "Ottenuti 50 scrigni.",
+            "koreana": "\ud2b8\ub808\uc800 \ubc15\uc2a4\ub97c 50\uac1c \ud68d\ub4dd\ud588\ub2e4",
+            "spanish": "Has obtenido 50 cofres del tesoro.",
+            "tchinese": "\u7372\u5f9750\u500b\u5bf6\u7bb1",
+            "russian": "\u0412\u044b \u043f\u043e\u043b\u0443\u0447\u0438\u043b\u0438 50 \u0441\u0443\u043d\u0434\u0443\u043a\u043e\u0432 \u0441 \u0441\u043e\u043a\u0440\u043e\u0432\u0438\u0449\u0430\u043c\u0438.",
+            "japanese": "\u30c8\u30ec\u30b8\u30e3\u30fc\u30dc\u30c3\u30af\u30b9\u309250\u500b\u7372\u5f97\u3057\u305f",
+            "arabic": "\u0627\u0644\u062d\u0635\u0648\u0644 \u0639\u0644\u0649 50 \u0645\u0646 \u0635\u0646\u0627\u062f\u064a\u0642 \u0627\u0644\u0643\u0646\u0632.",
+            "brazilian": "Obteve 50 ba\u00fas do tesouro.",
+            "token": "NEW_ACHIEVEMENT_1_18_DESC"
+        },
+        "icon": "41112fa0ad5bb78edfae2070266c52f0b60b3c45.jpg",
+        "icon_gray": "4120575deec81d5c0fbf2f30942332a3e31ff86c.jpg",
+        "name": "TK_ACH_18",
+        "progress": {
+            "min_val": "0",
+            "max_val": "50",
+            "value": {
+                "operation": "statvalue",
+                "operand1": "TKStatsAcquiredTreasure"
+            }
+        }
+    },
+    {
+        "hidden": "0",
+        "displayName": {
+            "english": "The Prosperous Inevitably Decline",
+            "german": "Die Erfolgreichen verfallen unausweichlich.",
+            "french": "Tout ce qui monte finit par retomber",
+            "italian": "Il prosperoso inevitabile declino",
+            "koreana": "\uc131\uc790\ud544\uc1e0",
+            "spanish": "El pr\u00f3spero e inevitable declive",
+            "tchinese": "\u76db\u8005\u5fc5\u8870",
+            "russian": "\u0422\u0430\u043a \u043f\u0440\u043e\u0445\u043e\u0434\u0438\u0442 \u043c\u0438\u0440\u0441\u043a\u0430\u044f \u0441\u043b\u0430\u0432\u0430",
+            "japanese": "\u76db\u8005\u5fc5\u8870",
+            "arabic": "\u0631\u0641\u0636 \u0627\u0644\u0645\u0632\u062f\u0647\u0631 \u0627\u0644\u062d\u062a\u0645\u064a",
+            "brazilian": "O decl\u00ednio inevit\u00e1vel e pr\u00f3spero",
+            "token": "NEW_ACHIEVEMENT_1_19_NAME"
+        },
+        "description": {
+            "english": "Beat Akuma in an Arcade Battle or a Special Match in Treasure Battle.",
+            "german": "Besiege Akuma in einem Arcade-Kampf oder einem Spezialkampf im Treasure-Kampf.",
+            "french": "Vaincre Akuma en mode Arcade ou lors d'un Match sp\u00e9cial en Combat au tr\u00e9sor.",
+            "italian": "Sconfitto Akuma in Battaglia arcade o in un match speciale nella Battaglia tesoro.",
+            "koreana": "ARCADE BATTLE \ub610\ub294 TREASURE BATTLE\uc758 \uc2a4\ud398\uc15c \ub9e4\uce58\uc5d0\uc11c \uc544\ucfe0\ub9c8\uc5d0\uac8c \uc2b9\ub9ac\ud588\ub2e4",
+            "spanish": "Has vencido a Akuma en Modo arcade o en un Combate especial de Combate de tesoro.",
+            "tchinese": "\u5728ARCADE BATTLE\u6216TREASURE BATTLE\u4e2d\u7684\u7279\u5225\u5c0d\u6230\u4e2d\u6230\u52ddAKUMA",
+            "russian": "\u0412\u044b \u043f\u043e\u0431\u0435\u0434\u0438\u043b\u0438 \u0410\u043a\u0443\u043c\u0443 \u0432 \u0430\u0440\u043a\u0430\u0434\u043d\u043e\u043c \u0431\u043e\u044e \u0438\u043b\u0438 \u043e\u0441\u043e\u0431\u043e\u043c \u0431\u043e\u044e \u0437\u0430 \u0441\u043e\u043a\u0440\u043e\u0432\u0438\u0449\u0430.",
+            "japanese": "ARCADE BATTLE\u307e\u305f\u306fTREASURE BATTLE\u306e\u30b9\u30da\u30b7\u30e3\u30eb\u30de\u30c3\u30c1\u3067\u8c6a\u9b3c\u306b\u52dd\u5229\u3057\u305f",
+            "arabic": "\u0627\u0644\u0641\u0648\u0632 \u0639\u0644\u0649 \"\u0623\u0643\u0648\u0645\u0627\" \u0641\u064a \u0645\u0639\u0631\u0643\u0629 \u0627\u0644\u0635\u0627\u0644\u0629 \u0623\u0648 \u0645\u0628\u0627\u0631\u0627\u0629 \u062e\u0627\u0635\u0629 \u0641\u0649 \u0645\u0639\u0631\u0643\u0629 \u0627\u0644\u0643\u0646\u0632.",
+            "brazilian": "Derrotou Akuma na Batalha Arcade ou em uma Partida especial na Batalha por Tesouro.",
+            "token": "NEW_ACHIEVEMENT_1_19_DESC"
+        },
+        "icon": "d50eee7fb23a2473dfbd48a2daec4aac71f112c8.jpg",
+        "icon_gray": "2991e052bf10a7a562ee04abe717251cef2f75c3.jpg",
+        "name": "TK_ACH_19",
+        "progress": {
+            "min_val": "0",
+            "max_val": "1",
+            "value": {
+                "operation": "statvalue",
+                "operand1": "TKStatsWonToMrxArcadeOrTreasure"
+            }
+        }
+    },
+    {
+        "hidden": "0",
+        "displayName": {
+            "english": "Fear My Wrath",
+            "german": "F\u00fcrchte meinen Zorn.",
+            "french": "Crains ma col\u00e8re !",
+            "italian": "Preparati alla mia ira",
+            "koreana": "\uacf5\ud3ec\uac00 \ubb54\uc9c0\ub97c \uc54c\uac8c \ud574 \uc8fc\ub9c8",
+            "spanish": "Teme mi ira",
+            "tchinese": "\u5c31\u6559\u6559\u4f60\u4ec0\u9ebc\u662f\u6050\u6016\u5427",
+            "russian": "\u0411\u043e\u0439\u0441\u044f \u043c\u043e\u0435\u0433\u043e \u0433\u043d\u0435\u0432\u0430",
+            "japanese": "\u6050\u6016\u3092\u6559\u3048\u3066\u3084\u308d\u3046",
+            "arabic": "\u062a\u062c\u0646\u0628 \u063a\u0636\u0628\u064a",
+            "brazilian": "Sinta minha f\u00faria",
+            "token": "NEW_ACHIEVEMENT_1_20_NAME"
+        },
+        "description": {
+            "english": "Beat Devil Kazumi in an Arcade Battle or a Special Match in Treasure Battle.",
+            "german": "Besiege Devil Kazumi in einem Arcade-Kampf oder einem Spezialkampf im Treasure-Kampf.",
+            "french": "Vaincre Devil Kazumi en mode Arcade ou lors d'un Match sp\u00e9cial en Combat au tr\u00e9sor.",
+            "italian": "Sconfitta Devil Kazumi in Battaglia arcade o in un match speciale nella Battaglia tesoro.",
+            "koreana": "ARCADE BATTLE \ub610\ub294 TREASURE BATTLE\uc758 \uc2a4\ud398\uc15c \ub9e4\uce58\uc5d0\uc11c \uce74\uc988\ubbf8\uc5d0\uac8c \uc2b9\ub9ac\ud588\ub2e4",
+            "spanish": "Has vencido a Devil Kazumi en Modo arcade o en un Combate especial de Combate de tesoro.",
+            "tchinese": "\u5728ARCADE BATTLE\u6216TREASURE BATTLE\u4e2d\u7684\u7279\u5225\u5c0d\u6230\u4e2d\u6230\u52dd\u4e00\u7f8e",
+            "russian": "\u0412\u044b \u043f\u043e\u0431\u0435\u0434\u0438\u043b\u0438 \u0434\u044c\u044f\u0432\u043e\u043b\u0430 \u041a\u0430\u0434\u0437\u0443\u043c\u0438 \u0432 \u0430\u0440\u043a\u0430\u0434\u043d\u043e\u043c \u0431\u043e\u044e \u0438\u043b\u0438 \u043e\u0441\u043e\u0431\u043e\u043c \u0431\u043e\u044e \u0437\u0430 \u0441\u043e\u043a\u0440\u043e\u0432\u0438\u0449\u0430.",
+            "japanese": "ARCADE BATTLE\u307e\u305f\u306fTREASURE BATTLE\u306e\u30b9\u30da\u30b7\u30e3\u30eb\u30de\u30c3\u30c1\u3067\u4e00\u7f8e\u306b\u52dd\u5229\u3057\u305f",
+            "arabic": "\u0627\u0644\u0641\u0648\u0632 \u0639\u0644\u0649 \"\u062f\u064a\u0641\u0644 \u0643\u0627\u0632\u0648\u0645\u064a\" \u0641\u064a \u0645\u0639\u0631\u0643\u0629 \u0627\u0644\u0635\u0627\u0644\u0629 \u0623\u0648 \u0645\u0628\u0627\u0631\u0627\u0629 \u062e\u0627\u0635\u0629 \u0641\u0649 \u0645\u0639\u0631\u0643\u0629 \u0627\u0644\u0643\u0646\u0632.",
+            "brazilian": "Derrotou Devil Kazumi em uma Batalha Arcade ou em uma Partida Especial na Batalha por Tesouro.",
+            "token": "NEW_ACHIEVEMENT_1_20_DESC"
+        },
+        "icon": "ee5e74aed392cc90ce865b4dd09558ab33d257a0.jpg",
+        "icon_gray": "8801528478c1671ca92c1aea10ac6bbb376ac1bc.jpg",
+        "name": "TK_ACH_20",
+        "progress": {
+            "min_val": "0",
+            "max_val": "1",
+            "value": {
+                "operation": "statvalue",
+                "operand1": "TKStatsWonToDevilKzmArcadeOrTreasure"
+            }
+        }
+    },
+    {
+        "hidden": "0",
+        "displayName": {
+            "english": "Don't Take It Personally",
+            "german": "Nimm's nicht pers\u00f6nlich",
+            "french": "N'y vois rien de personnel, surtout",
+            "italian": "Non prenderla sul personale",
+            "koreana": "\uc6d0\ub9dd \ub9c8\ub77c",
+            "spanish": "No te lo tomes como algo personal",
+            "tchinese": "\u5225\u592a\u5728\u610f\u554a",
+            "russian": "\u041d\u0435 \u043f\u0440\u0438\u043d\u0438\u043c\u0430\u0439 \u0431\u043b\u0438\u0437\u043a\u043e \u043a \u0441\u0435\u0440\u0434\u0446\u0443",
+            "japanese": "\u60aa\u304f\u601d\u3046\u306a",
+            "arabic": "\u0644\u0627 \u062a\u0639\u062a\u0628\u0631 \u0627\u0644\u0623\u0645\u0631 \u0634\u062e\u0635\u064a\u064b\u0627.",
+            "brazilian": "N\u00e3o leve para o lado pessoal",
+            "token": "NEW_ACHIEVEMENT_1_21_NAME"
+        },
+        "description": {
+            "english": "Achieved a perfect victory. (Excluding offline VS Battle)",
+            "german": "Sieg mit \"Perfect\" geschafft. (Ausgenommen Offline-Versus-Kampf)",
+            "french": "Remporter une victoire \"Perfect\". (Hors Versus hors-ligne)",
+            "italian": "Ottenuta una vittoria con Perfect (esclusa la Battaglia VS offline).",
+            "koreana": "PERFECT\ub85c \uc2b9\ub9ac\ud588\ub2e4 (\uc624\ud504\ub77c\uc778\uc758 \ub300\uc778\uc804\uc744 \uc81c\uc678)",
+            "spanish": "Has conseguido una victoria con \"Perfect\". (Duelo sin conexi\u00f3n no incluido)",
+            "tchinese": "\u4ee5PERFECT\u7372\u52dd(\u96e2\u7dda\u6a21\u5f0f\u7684\u5c0d\u4eba\u6230\u9664\u5916)",
+            "russian": "\u0412\u044b \u043e\u0434\u0435\u0440\u0436\u0430\u043b\u0438 Perfect \u043f\u043e\u0431\u0435\u0434\u0443. (\u041a\u0440\u043e\u043c\u0435 \u043b\u043e\u043a\u0430\u043b\u044c\u043d\u044b\u0445 \u043f\u043e\u0435\u0434\u0438\u043d\u043a\u043e\u0432.)",
+            "japanese": "PERFECT\u3067\u52dd\u5229\u3057\u305f(\u30aa\u30d5\u30e9\u30a4\u30f3\u306e\u5bfe\u4eba\u6226\u3092\u9664\u304f)",
+            "arabic": "\u062a\u062d\u0642\u064a\u0642 \u0627\u0646\u062a\u0635\u0627\u0631 PERFECT. (\u0628\u0627\u0633\u062a\u062b\u0646\u0627\u0621 \u0645\u0639\u0627\u0631\u0643 \u0627\u0644\u0645\u0648\u0627\u062c\u0647\u0629 \u062f\u0648\u0646 \u0627\u0644\u0625\u0646\u062a\u0631\u0646\u062a)",
+            "brazilian": "Conseguiu uma vit\u00f3ria \"Perfect\" (exceto Batalhas VS offline).",
+            "token": "NEW_ACHIEVEMENT_1_21_DESC"
+        },
+        "icon": "acfaacf055d0205bdc0aa8b2325b890e649ebd10.jpg",
+        "icon_gray": "5696c63851b3c8ae1070503aa5dd674c59b9f33d.jpg",
+        "name": "TK_ACH_21",
+        "progress": {
+            "min_val": "0",
+            "max_val": "1",
+            "value": {
+                "operation": "statvalue",
+                "operand1": "TKStatsPerfectWin"
+            }
+        }
+    },
+    {
+        "hidden": "0",
+        "displayName": {
+            "english": "You Fought Well",
+            "german": "Du hast gut gek\u00e4mpft.",
+            "french": "Vous savez vous battre",
+            "italian": "Niente male",
+            "koreana": "\uc81c\ubc95\uc774\uc2dc\ub124\uc694",
+            "spanish": "Has luchado bien",
+            "tchinese": "\u5f88\u53b2\u5bb3\u561b",
+            "russian": "\u0422\u044b \u043d\u0435\u043f\u043b\u043e\u0445\u043e \u0441\u0440\u0430\u0436\u0430\u0435\u0448\u044c\u0441\u044f",
+            "japanese": "\u3084\u308a\u307e\u3059\u306d",
+            "arabic": "\u062d\u0627\u0631\u0628\u062a \u0628\u0634\u0643\u0644 \u062c\u064a\u062f",
+            "brazilian": "Voc\u00ea lutou bem",
+            "token": "NEW_ACHIEVEMENT_1_22_NAME"
+        },
+        "description": {
+            "english": "Achieved a great victory. (Excluding offline VS Battle)",
+            "german": "Sieg mit \"Great\" geschafft. (Ausgenommen Offline-Versus-Kampf)",
+            "french": "Remporter une victoire \"Great\". (Hors Versus hors-ligne)",
+            "italian": "Ottenuta una vittoria con Great (esclusa la Battaglia VS offline).",
+            "koreana": "GREAT\ub85c \uc2b9\ub9ac\ud588\ub2e4 (\uc624\ud504\ub77c\uc778\uc758 \ub300\uc778\uc804\uc744 \uc81c\uc678)",
+            "spanish": "Has conseguido una victoria con \"Great\". (Duelo sin conexi\u00f3n no incluido)",
+            "tchinese": "\u4ee5GREAT\u7372\u52dd(\u96e2\u7dda\u6a21\u5f0f\u7684\u5c0d\u4eba\u6230\u9664\u5916)",
+            "russian": "\u0412\u044b \u043e\u0434\u0435\u0440\u0436\u0430\u043b\u0438 Great \u043f\u043e\u0431\u0435\u0434\u0443. (\u041a\u0440\u043e\u043c\u0435 \u043b\u043e\u043a\u0430\u043b\u044c\u043d\u044b\u0445 \u043f\u043e\u0435\u0434\u0438\u043d\u043a\u043e\u0432.)",
+            "japanese": "GREAT\u3067\u52dd\u5229\u3057\u305f(\u30aa\u30d5\u30e9\u30a4\u30f3\u306e\u5bfe\u4eba\u6226\u3092\u9664\u304f)",
+            "arabic": "\u062a\u062d\u0642\u064a\u0642 \u0627\u0646\u062a\u0635\u0627\u0631 GREAT. (\u0628\u0627\u0633\u062a\u062b\u0646\u0627\u0621 \u0645\u0639\u0627\u0631\u0643 \u0627\u0644\u0645\u0648\u0627\u062c\u0647\u0629 \u062f\u0648\u0646 \u0627\u0644\u0625\u0646\u062a\u0631\u0646\u062a)",
+            "brazilian": "Conseguiu uma vit\u00f3ria \"Great\" (exceto Batalhas VS offline).",
+            "token": "NEW_ACHIEVEMENT_1_22_DESC"
+        },
+        "icon": "e870c41df95adbacba6ff99584b466ee89c47412.jpg",
+        "icon_gray": "b24b400afe082b64af85a385b83084aa69697d59.jpg",
+        "name": "TK_ACH_22",
+        "progress": {
+            "min_val": "0",
+            "max_val": "1",
+            "value": {
+                "operation": "statvalue",
+                "operand1": "TKStatsGreatWin"
+            }
+        }
+    },
+    {
+        "hidden": "0",
+        "displayName": {
+            "english": "There's Nowhere To Run. Give Up!",
+            "german": "Du kannst nirgendwohin fliehen. Gib auf!",
+            "french": "Abandonne, il n'y a pas d'issue pour toi\u00a0!",
+            "italian": "Non puoi scappare. Arrenditi!",
+            "koreana": "\ub3c4\ub9dd\uce60 \uacf3\uc740 \uc5c6\ub2e4, \ud3ec\uae30\ud574!",
+            "spanish": "No tienes escapatoria. \u00a1R\u00edndete!",
+            "tchinese": "\u7121\u8655\u53ef\u9003\u4e86\uff0c\u653e\u68c4\u5427",
+            "russian": "\u0411\u0435\u0436\u0430\u0442\u044c \u043d\u0435\u043a\u0443\u0434\u0430. \u0421\u0434\u0430\u0432\u0430\u0439\u0441\u044f!",
+            "japanese": "\u9003\u3052\u5834\u306f\u7121\u3044 \u8ae6\u3081\u308d",
+            "arabic": "\u0644\u0627 \u0645\u0643\u0627\u0646 \u0644\u0644\u0647\u0631\u0628. \u0639\u0644\u064a\u0643 \u0627\u0644\u0627\u0633\u062a\u0633\u0644\u0627\u0645!",
+            "brazilian": "N\u00e3o tem para onde fugir. Desista!",
+            "token": "NEW_ACHIEVEMENT_1_24_NAME"
+        },
+        "description": {
+            "english": "Dealt 10 homing attacks. (Excluding offline VS Battle)",
+            "german": "10 verfolgende Angriffe gelandet. (Ausgenommen Offline-Versus-Kampf)",
+            "french": "Infliger 10 attaques verrouill\u00e9es. (Hors Versus hors-ligne)",
+            "italian": "Sferrati 10 attacchi a ricerca (esclusa la Battaglia VS offline).",
+            "koreana": "\ud638\ubc0d \uc5b4\ud0dd\uc744 10\ud68c \ud788\ud2b8\uc2dc\ucf30\ub2e4 (\uc624\ud504\ub77c\uc778\uc758 \ub300\uc778\uc804\uc744 \uc81c\uc678)",
+            "spanish": "Has realizado 10 ataques guiados. (Duelo sin conexi\u00f3n no incluido)",
+            "tchinese": "\u7528\u8ffd\u8e64\u653b\u64ca\u64ca\u4e2d10\u6b21\u4ee5\u4e0a(\u96e2\u7dda\u6a21\u5f0f\u7684\u5c0d\u4eba\u6230\u9664\u5916)",
+            "russian": "\u0412\u044b \u043f\u0440\u043e\u0432\u0435\u043b\u0438 \u0434\u0435\u0441\u044f\u0442\u044c \u0441\u0430\u043c\u043e\u043d\u0430\u0432\u043e\u0434\u044f\u0449\u0438\u0445\u0441\u044f \u0430\u0442\u0430\u043a. (\u041a\u0440\u043e\u043c\u0435 \u043b\u043e\u043a\u0430\u043b\u044c\u043d\u044b\u0445 \u043f\u043e\u0435\u0434\u0438\u043d\u043a\u043e\u0432.)",
+            "japanese": "\u30db\u30fc\u30df\u30f3\u30b0\u30a2\u30bf\u30c3\u30af\u309210\u56de\u30d2\u30c3\u30c8\u3055\u305b\u305f(\u30aa\u30d5\u30e9\u30a4\u30f3\u306e\u5bfe\u4eba\u6226\u3092\u9664\u304f)",
+            "arabic": "\u0625\u062d\u062f\u0627\u062b 10 \u0645\u0646 \u0627\u0644\u0647\u062c\u0648\u0645 \u0627\u0644\u0645\u0648\u062c\u0647. (\u0628\u0627\u0633\u062a\u062b\u0646\u0627\u0621 \u0645\u0639\u0627\u0631\u0643 \u0627\u0644\u0645\u0648\u0627\u062c\u0647\u0629 \u062f\u0648\u0646 \u0627\u0644\u0625\u0646\u062a\u0631\u0646\u062a)",
+            "brazilian": "Acertou dez ataques guiados (exceto Batalhas VS offline).",
+            "token": "NEW_ACHIEVEMENT_1_24_DESC"
+        },
+        "icon": "5b16152ac0aaa7aa61f9c4fd9fa5ed8e47a859de.jpg",
+        "icon_gray": "d352aa1b1b4461a5ed1aad8bddaf3702146d85ca.jpg",
+        "name": "TK_ACH_24",
+        "progress": {
+            "min_val": "0",
+            "max_val": "10",
+            "value": {
+                "operation": "statvalue",
+                "operand1": "TKStatsHitedHomingAttack"
+            }
+        }
+    },
+    {
+        "hidden": "0",
+        "displayName": {
+            "english": "I'll Kick Your Butt To Hell And Back",
+            "german": "Ich schick dich in die H\u00f6lle und zur\u00fcck.",
+            "french": "Allez, viens te faire botter le train\u00a0!",
+            "italian": "Non vedo l'ora di prenderti a calci",
+            "koreana": "\uc9c0\uc625 \ub05d\uae4c\uc9c0 \ubcf4\ub0b4\uc904 \ud14c\ub2c8\uae4c",
+            "spanish": "Te dar\u00e9 tal paliza que llegar\u00e1s al infierno",
+            "tchinese": "\u4f86\u5427\uff0c\u8b93\u6211\u628a\u4f60\u8e22\u5230\u5730\u7344\u7684\u76e1\u982d",
+            "russian": "\u041c\u043e\u0439 \u043f\u0438\u043d\u043e\u043a \u043e\u0442\u043f\u0440\u0430\u0432\u0438\u0442 \u0442\u0435\u0431\u044f \u043f\u0440\u044f\u043c\u043e \u0432 \u0430\u0434",
+            "japanese": "\u5730\u7344\u306e\u679c\u3066\u307e\u3067\u8e74\u98db\u3070\u3057\u3066\u3084\u3093\u3088",
+            "arabic": "\u0633\u0623\u0644\u0642\u0646\u0643 \u062f\u0631\u0633\u064b\u0627 \u0642\u0627\u0633\u064a\u064b\u0627",
+            "brazilian": "Vou chutar seu rabo at\u00e9 o inferno",
+            "token": "NEW_ACHIEVEMENT_1_25_NAME"
+        },
+        "description": {
+            "english": "Dealt 70+ damage in an air combo. (Excluding offline VS Battle)",
+            "german": "Mehr als 70 Schaden in einer Luftcombo verursacht. (Ausgenommen Offline-Versus-Kampf)",
+            "french": "Infliger plus de 70 points de d\u00e9g\u00e2ts dans un combo a\u00e9rien. (Hors Versus hors-ligne)",
+            "italian": "Inflitti pi\u00f9 di 70 danni in una combo aerea (esclusa la Battaglia VS offline).",
+            "koreana": "\uacf5\uc911 \ucf64\ubcf4\ub85c 70 \ub300\ubbf8\uc9c0 \uc774\uc0c1 \uc785\ud614\ub2e4 (\uc624\ud504\ub77c\uc778\uc758 \ub300\uc778\uc804\uc744 \uc81c\uc678)",
+            "spanish": "Has infligido m\u00e1s de 70 de da\u00f1o en un combo a\u00e9reo. (Duelo sin conexi\u00f3n no incluido)",
+            "tchinese": "\u7528\u7a7a\u4e2d\u9023\u64ca\u64ca\u51fa70\u4ee5\u4e0a\u7684\u640d\u50b7(\u96e2\u7dda\u6a21\u5f0f\u7684\u5c0d\u4eba\u6230\u9664\u5916)",
+            "russian": "\u0412\u044b \u043d\u0430\u043d\u0435\u0441\u043b\u0438 70 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u0432 \u0432\u043e\u0437\u0434\u0443\u0448\u043d\u043e\u043c \u043a\u043e\u043c\u0431\u043e. (\u041a\u0440\u043e\u043c\u0435 \u043b\u043e\u043a\u0430\u043b\u044c\u043d\u044b\u0445 \u043f\u043e\u0435\u0434\u0438\u043d\u043a\u043e\u0432.)",
+            "japanese": "\u7a7a\u4e2d\u30b3\u30f3\u30dc\u306770\u30c0\u30e1\u30fc\u30b8\u4ee5\u4e0a\u4e0e\u3048\u305f(\u30aa\u30d5\u30e9\u30a4\u30f3\u306e\u5bfe\u4eba\u6226\u3092\u9664\u304f)",
+            "arabic": "\u0625\u062d\u062f\u0627\u062b 70+ \u0645\u0646 \u0627\u0644\u0636\u0631\u0631 \u0641\u064a \u0645\u062c\u0645\u0648\u0639\u0629 \u062c\u0648\u064a\u0629. (\u0628\u0627\u0633\u062a\u062b\u0646\u0627\u0621 \u0645\u0639\u0627\u0631\u0643 \u0627\u0644\u0645\u0648\u0627\u062c\u0647\u0629 \u062f\u0648\u0646 \u0627\u0644\u0625\u0646\u062a\u0631\u0646\u062a)",
+            "brazilian": "Causou 70 de dano ou mais em um combo a\u00e9reo (exceto Batalhas VS offline).",
+            "token": "NEW_ACHIEVEMENT_1_25_DESC"
+        },
+        "icon": "873f90712abeef03ae07f400bda04e25c5a3fda1.jpg",
+        "icon_gray": "ca6893110b1a0a78c67de5cca74648c9f8cbf7ed.jpg",
+        "name": "TK_ACH_25",
+        "progress": {
+            "min_val": "0",
+            "max_val": "1",
+            "value": {
+                "operation": "statvalue",
+                "operand1": "TKStatsMidairCombo70Damaged"
+            }
+        }
+    },
+    {
+        "hidden": "0",
+        "displayName": {
+            "english": "Just Relax, You Can Do It",
+            "german": "Entspann dich einfach. Du schaffst das.",
+            "french": "D\u00e9tends-toi, je sais que tu en es capable !",
+            "italian": "Rilassati, puoi farcela",
+            "koreana": "\ub9c8\uc74c\uc744 \uac00\ub77c\uc549\ud788\uace0 \ud558\uba74 \uad1c\ucc2e\uc744 \uac70\uc57c",
+            "spanish": "Rel\u00e1jate. Puedes hacerlo",
+            "tchinese": "\u51b7\u975c\u61c9\u6230\u7684\u8a71\u5c31\u6c92\u554f\u984c",
+            "russian": "\u0423\u0441\u043f\u043e\u043a\u043e\u0439\u0441\u044f, \u0443 \u0442\u0435\u0431\u044f \u043f\u043e\u043b\u0443\u0447\u0438\u0442\u0441\u044f",
+            "japanese": "\u843d\u3061\u7740\u3044\u3066\u3084\u308c\u3070\u5927\u4e08\u592b",
+            "arabic": "\u0639\u0644\u064a\u0643 \u0627\u0644\u0627\u0633\u062a\u0631\u062e\u0627\u0621\u060c \u064a\u0645\u0643\u0646\u0643 \u0641\u0639\u0644\u0647\u0627",
+            "brazilian": "Relaxe, voc\u00ea \u00e9 capaz",
+            "token": "NEW_ACHIEVEMENT_1_26_NAME"
+        },
+        "description": {
+            "english": "Performed three 10 hit combos. (Excluding offline VS Battle)",
+            "german": "Drei 10 Hit Combos geschafft. (Ausgenommen Offline-Versus-Kampf)",
+            "french": "R\u00e9ussir trois 10 Hit Combos. (Hors Versus hors-ligne)",
+            "italian": "Eseguite tre 10 Hit Combo (esclusa la Battaglia VS offline).",
+            "koreana": "10\uc5f0 \ucf64\ubcf4\ub97c 3\ud68c \uc0ac\uc6a9\ud588\ub2e4 (\uc624\ud504\ub77c\uc778\uc758 \ub300\uc778\uc804\uc744 \uc81c\uc678)",
+            "spanish": "Has realizado tres 10 Hit Combos. (Duelo sin conexi\u00f3n no incluido)",
+            "tchinese": "\u4f7f\u51fa3\u6b2110\u9023\u64ca(\u96e2\u7dda\u6a21\u5f0f\u7684\u5c0d\u4eba\u6230\u9664\u5916)",
+            "russian": "\u0412\u044b \u0432\u044b\u043f\u043e\u043b\u043d\u0438\u043b\u0438 \u0442\u0440\u0438 \u043a\u043e\u043c\u0431\u043e \u0438\u0437 10 \u0443\u0434\u0430\u0440\u043e\u0432. (\u041a\u0440\u043e\u043c\u0435 \u043b\u043e\u043a\u0430\u043b\u044c\u043d\u044b\u0445 \u043f\u043e\u0435\u0434\u0438\u043d\u043a\u043e\u0432.)",
+            "japanese": "\uff11\uff10\u9023\u30b3\u30f3\u30dc\u30923\u56de\u51fa\u3057\u305f(\u30aa\u30d5\u30e9\u30a4\u30f3\u306e\u5bfe\u4eba\u6226\u3092\u9664\u304f)",
+            "arabic": "\u0625\u062c\u0631\u0627\u0621 \u062b\u0644\u0627\u062b\u0629 \u0645\u0646 \u0645\u062c\u0645\u0648\u0639\u0629 10 Hit Combos. (\u0628\u0627\u0633\u062a\u062b\u0646\u0627\u0621 \u0645\u0639\u0627\u0631\u0643 \u0627\u0644\u0645\u0648\u0627\u062c\u0647\u0629 \u062f\u0648\u0646 \u0627\u0644\u0625\u0646\u062a\u0631\u0646\u062a)",
+            "brazilian": "Executou tr\u00eas combos de 10 golpes (exceto Batalhas VS offline).",
+            "token": "NEW_ACHIEVEMENT_1_26_DESC"
+        },
+        "icon": "5456ab16098017aecdb31f7561f81702d831e888.jpg",
+        "icon_gray": "0b403ae38bcfdc77d80f7eb453f8634f4dfa9cf5.jpg",
+        "name": "TK_ACH_26",
+        "progress": {
+            "min_val": "0",
+            "max_val": "3",
+            "value": {
+                "operation": "statvalue",
+                "operand1": "TKStats10HitCombo"
+            }
+        }
+    },
+    {
+        "hidden": "0",
+        "displayName": {
+            "english": "Elegance At Its Purest",
+            "german": "Pure Eleganz",
+            "french": "L'\u00e9l\u00e9gance \u00e0 l'\u00e9tat pur",
+            "italian": "Massima eleganza",
+            "koreana": "\uc5d8\ub808\uac15\ud2b8",
+            "spanish": "Elegancia en su estado m\u00e1s puro",
+            "tchinese": "\u512a\u96c5",
+            "russian": "\u0412\u044b\u0441\u0448\u0435\u0435 \u043f\u0440\u043e\u044f\u0432\u043b\u0435\u043d\u0438\u0435 \u0438\u0437\u044f\u0449\u0435\u0441\u0442\u0432\u0430",
+            "japanese": "\u30a8\u30ec\u30ac\u30f3\u30c8",
+            "arabic": "\u0627\u0644\u0623\u0646\u0627\u0642\u0629 \u0641\u064a \u0623\u0641\u0636\u0644 \u0635\u0648\u0631\u0647\u0627",
+            "brazilian": "A eleg\u00e2ncia mais pura",
+            "token": "NEW_ACHIEVEMENT_1_27_NAME"
+        },
+        "description": {
+            "english": "Triggered 10 screws. (Excluding offline VS Battle)",
+            "german": "10 Schrauben ausgel\u00f6st. (Ausgenommen Offline-Versus-Kampf)",
+            "french": "D\u00e9clencher 10 vrilles. (Hors Versus hors-ligne)",
+            "italian": "Sferrati 10 Screw Trigger (esclusa la Battaglia VS offline).",
+            "koreana": "\uc2a4\ud06c\ub958\ub97c 10\ud68c \ubc1c\uc0dd\uc2dc\ucf30\ub2e4 (\uc624\ud504\ub77c\uc778\uc758 \ub300\uc778\uc804\uc744 \uc81c\uc678)",
+            "spanish": "Has activado 10 Screws. (Duelo sin conexi\u00f3n no incluido)",
+            "tchinese": "\u89f8\u767c10\u6b21\u87ba\u65cb\u8ff4\u8f49(\u96e2\u7dda\u6a21\u5f0f\u7684\u5c0d\u4eba\u6230\u9664\u5916)",
+            "russian": "\u0412\u044b \u0430\u043a\u0442\u0438\u0432\u0438\u0440\u043e\u0432\u0430\u043b\u0438 10 \u043e\u0442\u0432\u0451\u0440\u0442\u043e\u043a. (\u041a\u0440\u043e\u043c\u0435 \u043b\u043e\u043a\u0430\u043b\u044c\u043d\u044b\u0445 \u043f\u043e\u0435\u0434\u0438\u043d\u043a\u043e\u0432.)",
+            "japanese": "\u30b9\u30af\u30ea\u30e5\u30fc\u309210\u56de\u767a\u751f\u3055\u305b\u305f(\u30aa\u30d5\u30e9\u30a4\u30f3\u306e\u5bfe\u4eba\u6226\u3092\u9664\u304f)",
+            "arabic": "\u0625\u0637\u0644\u0627\u0642 10 \u0645\u0646 Screws Trigger. (\u0628\u0627\u0633\u062a\u062b\u0646\u0627\u0621 \u0645\u0639\u0627\u0631\u0643 \u0627\u0644\u0645\u0648\u0627\u062c\u0647\u0629 \u062f\u0648\u0646 \u0627\u0644\u0625\u0646\u062a\u0631\u0646\u062a)",
+            "brazilian": "Executou 10 gatilhos girat\u00f3rios (exceto Batalhas VS offline).",
+            "token": "NEW_ACHIEVEMENT_1_27_DESC"
+        },
+        "icon": "2665cac8d9d15262d907a84f3d470364917fb37c.jpg",
+        "icon_gray": "3e105fbc82737831849d6fdd7a927ea9424988fc.jpg",
+        "name": "TK_ACH_27",
+        "progress": {
+            "min_val": "0",
+            "max_val": "10",
+            "value": {
+                "operation": "statvalue",
+                "operand1": "TKStatsScrewed"
+            }
+        }
+    },
+    {
+        "hidden": "0",
+        "displayName": {
+            "english": "Power Is Everything!",
+            "german": "Macht ist alles!",
+            "french": "Seul compte le pouvoir\u00a0!",
+            "italian": "La potenza \u00e8 tutto!",
+            "koreana": "\ud798\uc774 \uace7 \uc815\uc758\ub2e4!",
+            "spanish": "El poder lo es todo",
+            "tchinese": "\u529b\u91cf\u624d\u662f\u4e00\u5207",
+            "russian": "\u0421\u0438\u043b\u0430 \u0440\u0435\u0448\u0430\u0435\u0442 \u0432\u0441\u0451",
+            "japanese": "\u529b\u3053\u305d\u5168\u3066\u3060",
+            "arabic": "\u0627\u0644\u0642\u0648\u0629 \u0647\u064a \u0643\u0644 \u0634\u064a\u0621!",
+            "brazilian": "For\u00e7a \u00e9 tudo!",
+            "token": "NEW_ACHIEVEMENT_1_28_NAME"
+        },
+        "description": {
+            "english": "Dealt 10 power crushes. (Excluding offline VS Battle)",
+            "german": "10 Power Crushes gelandet. (Ausgenommen Offline-Versus-Kampf)",
+            "french": "Infliger 10 Power Crushes. (Hors Versus hors-ligne)",
+            "italian": "Sferrati 10 Power Crush (esclusa la Battaglia VS offline).",
+            "koreana": "\ud30c\uc6cc \ud06c\ub798\uc2dc\ub97c 10\ud68c \ud788\ud2b8\uc2dc\ucf30\ub2e4 (\uc624\ud504\ub77c\uc778\uc758 \ub300\uc778\uc804\uc744 \uc81c\uc678)",
+            "spanish": "Has realizado 10 Power Crushes. (Duelo sin conexi\u00f3n no incluido)",
+            "tchinese": "\u7528Power Crush\u64ca\u4e2d10\u6b21(\u96e2\u7dda\u6a21\u5f0f\u7684\u5c0d\u4eba\u6230\u9664\u5916)",
+            "russian": "\u0412\u044b 10 \u0440\u0430\u0437 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043b\u0438 Power Crush. (\u041a\u0440\u043e\u043c\u0435 \u043b\u043e\u043a\u0430\u043b\u044c\u043d\u044b\u0445 \u043f\u043e\u0435\u0434\u0438\u043d\u043a\u043e\u0432.)",
+            "japanese": "\u30d1\u30ef\u30fc\u30af\u30e9\u30c3\u30b7\u30e5\u309210\u56de\u30d2\u30c3\u30c8\u3055\u305b\u305f(\u30aa\u30d5\u30e9\u30a4\u30f3\u306e\u5bfe\u4eba\u6226\u3092\u9664\u304f)",
+            "arabic": "\u0625\u0637\u0644\u0627\u0642 10 \u0645\u0646 Power Crushes (\u0628\u0627\u0633\u062a\u062b\u0646\u0627\u0621 \u0645\u0639\u0627\u0631\u0643 \u0627\u0644\u0645\u0648\u0627\u062c\u0647\u0629 \u062f\u0648\u0646 \u0627\u0644\u0625\u0646\u062a\u0631\u0646\u062a)",
+            "brazilian": "Acertou 10 poderes esmagadores (exceto Batalhas VS offline).",
+            "token": "NEW_ACHIEVEMENT_1_28_DESC"
+        },
+        "icon": "8dfb3408eaeb28228e430fc7b7848c310eadb0f8.jpg",
+        "icon_gray": "c8c5dfd5968206daf05cf3de46502d4f93dceb3e.jpg",
+        "name": "TK_ACH_28",
+        "progress": {
+            "min_val": "0",
+            "max_val": "10",
+            "value": {
+                "operation": "statvalue",
+                "operand1": "TKStatsHitedPowerCrashed"
+            }
+        }
+    },
+    {
+        "hidden": "0",
+        "displayName": {
+            "english": "Overdrive!",
+            "german": "Overdrive!",
+            "french": "Overdrive\u00a0!",
+            "italian": "Overdrive!",
+            "koreana": "Overdrive!",
+            "spanish": "\u00a1A toda marcha!",
+            "tchinese": "Overdrive\uff01",
+            "russian": "\u041f\u0435\u0440\u0435\u0433\u0440\u0443\u0437\u043a\u0430!",
+            "japanese": "\u30aa\u30fc\u30d0\u30fc\u30c9\u30e9\u30a4\u30d6!",
+            "arabic": "Overdrive!",
+            "brazilian": "Sem controle!",
+            "token": "NEW_ACHIEVEMENT_1_29_NAME"
+        },
+        "description": {
+            "english": "Dealt 10 Rage Drives. (Excluding offline VS Battle)",
+            "german": "10 Rage Drives gelandet. (Ausgenommen Offline-Versus-Kampf)",
+            "french": "Infliger 10 Rage Drives. (Hors Versus hors-ligne)",
+            "italian": "Sferrati 10 Rage Drive (esclusa la Battaglia VS offline).",
+            "koreana": "Rage Drive\ub97c 10\ud68c \ud788\ud2b8\uc2dc\ucf30\ub2e4 (\uc624\ud504\ub77c\uc778\uc758 \ub300\uc778\uc804\uc744 \uc81c\uc678)",
+            "spanish": "Has realizado 10 Rage Drives. (Duelo sin conexi\u00f3n no incluido)",
+            "tchinese": "\u7528Rage Drive\u64ca\u4e2d10\u6b21(\u96e2\u7dda\u6a21\u5f0f\u7684\u5c0d\u4eba\u6230\u9664\u5916)",
+            "russian": "\u0412\u044b 10 \u0440\u0430\u0437 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043b\u0438 Rage Drive. (\u041a\u0440\u043e\u043c\u0435 \u043b\u043e\u043a\u0430\u043b\u044c\u043d\u044b\u0445 \u043f\u043e\u0435\u0434\u0438\u043d\u043a\u043e\u0432.)",
+            "japanese": "\u30ec\u30a4\u30b8\u30c9\u30e9\u30a4\u30d6\u309210\u56de\u30d2\u30c3\u30c8\u3055\u305b\u305f(\u30aa\u30d5\u30e9\u30a4\u30f3\u306e\u5bfe\u4eba\u6226\u3092\u9664\u304f)",
+            "arabic": "\u0625\u0637\u0644\u0627\u0642 10 \u0645\u0646 Rage Drive. (\u0628\u0627\u0633\u062a\u062b\u0646\u0627\u0621 \u0645\u0639\u0627\u0631\u0643 \u0627\u0644\u0645\u0648\u0627\u062c\u0647\u0629 \u062f\u0648\u0646 \u0627\u0644\u0625\u0646\u062a\u0631\u0646\u062a)",
+            "brazilian": "Acertou 10 Rage Drives (exceto Batalhas VS offline).",
+            "token": "NEW_ACHIEVEMENT_1_29_DESC"
+        },
+        "icon": "81a998bdcbb229371d8681fb0561919516255cea.jpg",
+        "icon_gray": "c6063ff132d297297cf23266214bf0e7947026be.jpg",
+        "name": "TK_ACH_29",
+        "progress": {
+            "min_val": "0",
+            "max_val": "10",
+            "value": {
+                "operation": "statvalue",
+                "operand1": "TKStatsHitedRageDrive"
+            }
+        }
+    },
+    {
+        "hidden": "0",
+        "displayName": {
+            "english": "We Settle This Now!",
+            "german": "Wir werden das jetzt beilegen!",
+            "french": "R\u00e9glons \u00e7a tout de suite\u00a0!",
+            "italian": "Risolviamo la faccenda!",
+            "koreana": "\uc774\uac78\ub85c \ub05d\uc774\ub2e4!",
+            "spanish": "\u00a1Terminemos con esto!",
+            "tchinese": "\u9019\u6a23\u5c31\u89e3\u6c7a\u4e86\uff01",
+            "russian": "\u0412\u043e\u0442 \u0438 \u0432\u0441\u0451!",
+            "japanese": "\u3053\u308c\u3067\u6c7a\u3081\u308b\uff01",
+            "arabic": "\u0633\u0646\u0646\u0647\u064a \u0647\u0630\u0627 \u0627\u0644\u0622\u0646!",
+            "brazilian": "Vamos acabar com isso agora!",
+            "token": "NEW_ACHIEVEMENT_1_30_NAME"
+        },
+        "description": {
+            "english": "Dealt 20 Rage Arts. (Excluding offline VS Battle)",
+            "german": "20 Rage Arts gelandet. (Ausgenommen Offline-Versus-Kampf)",
+            "french": "Infliger 20 Rage Arts. (Hors Versus hors-ligne)",
+            "italian": "Sferrate 20 Rage Art (esclusa la Battaglia VS offline).",
+            "koreana": "Rage Art\ub97c 20\ud68c \ud788\ud2b8\uc2dc\ucf30\ub2e4 (\uc624\ud504\ub77c\uc778\uc758 \ub300\uc778\uc804\uc744 \uc81c\uc678)",
+            "spanish": "Has realizado 20 Rage Arts. (Duelo sin conexi\u00f3n no incluido)",
+            "tchinese": "\u7528Rage Art\u64ca\u4e2d20\u6b21(\u96e2\u7dda\u6a21\u5f0f\u7684\u5c0d\u4eba\u6230\u9664\u5916)",
+            "russian": "\u0412\u044b 20 \u0440\u0430\u0437 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043b\u0438 Rage Art. (\u041a\u0440\u043e\u043c\u0435 \u043b\u043e\u043a\u0430\u043b\u044c\u043d\u044b\u0445 \u043f\u043e\u0435\u0434\u0438\u043d\u043a\u043e\u0432.)",
+            "japanese": "\u30ec\u30a4\u30b8\u30a2\u30fc\u30c4\u309220\u56de\u30d2\u30c3\u30c8\u3055\u305b\u305f(\u30aa\u30d5\u30e9\u30a4\u30f3\u306e\u5bfe\u4eba\u6226\u3092\u9664\u304f)",
+            "arabic": "\u0625\u0637\u0644\u0627\u0642 20 \u0645\u0646 Rage Arts. (\u0628\u0627\u0633\u062a\u062b\u0646\u0627\u0621 \u0645\u0639\u0627\u0631\u0643 \u0627\u0644\u0645\u0648\u0627\u062c\u0647\u0629 \u062f\u0648\u0646 \u0627\u0644\u0625\u0646\u062a\u0631\u0646\u062a)",
+            "brazilian": "Acertou 20 Rage Arts (exceto Batalhas VS offline).",
+            "token": "NEW_ACHIEVEMENT_1_30_DESC"
+        },
+        "icon": "9c747276a7d791c816603155eae5a281e6aa0e99.jpg",
+        "icon_gray": "dd5e7df3ad9fa712790cc60b245acc6ba177d6ac.jpg",
+        "name": "TK_ACH_30",
+        "progress": {
+            "min_val": "0",
+            "max_val": "20",
+            "value": {
+                "operation": "statvalue",
+                "operand1": "TKStatsHitedRageArts"
+            }
+        }
+    },
+    {
+        "hidden": "0",
+        "displayName": {
+            "english": "Stun Gun!",
+            "german": "Stun Gun!",
+            "french": "Taser\u00a0!",
+            "italian": "Stun Gun!",
+            "koreana": "Stun Gun!",
+            "spanish": "\u00a1Pistola paralizante!",
+            "tchinese": "Stun Gun\uff01",
+            "russian": "\u041e\u0433\u043b\u0443\u0448\u0435\u043d\u0438\u0435!",
+            "japanese": "\u30cf\u30fc\u30c8\u30d6\u30ec\u30a4\u30af\u30b7\u30e7\u30c3\u30c8!",
+            "arabic": "Stun Gun!",
+            "brazilian": "Pistola atordoante!",
+            "token": "NEW_ACHIEVEMENT_1_31_NAME"
+        },
+        "description": {
+            "english": "Snatched victory from the jaws of defeat 5 times with Rage Art. (Excluding offline VS Battle)",
+            "german": "5 Spiele mit einer Rage Art gewendet und gewonnen. (Ausgenommen Offline-Versus-Kampf)",
+            "french": "Arracher cinq victoires gr\u00e2ce \u00e0 un Rage Art. (Hors Versus hors-ligne)",
+            "italian": "Vinto 5 volte con una Rage Art quando eri in procinto di perdere (esclusa la Battaglia VS offline).",
+            "koreana": "Rage Art\ub85c 5\ud68c \uc5ed\uc804 K.O.\ud588\ub2e4 (\uc624\ud504\ub77c\uc778\uc758 \ub300\uc778\uc804\uc744 \uc81c\uc678)",
+            "spanish": "Has logrado la victoria 5 veces en el \u00faltimo momento con Rage Art. (Duelo sin conexi\u00f3n no incluido)",
+            "tchinese": "\u7528Rage Art\u9006\u8f49K.O.\u5c0d\u624b5\u6b21(\u96e2\u7dda\u6a21\u5f0f\u7684\u5c0d\u4eba\u6230\u9664\u5916)",
+            "russian": "\u0412\u044b \u043f\u044f\u0442\u044c \u0440\u0430\u0437 \u043f\u043e\u0431\u0435\u0434\u0438\u043b\u0438, \u043d\u0430\u0445\u043e\u0434\u044f\u0441\u044c \u043d\u0430 \u0433\u0440\u0430\u043d\u0438 \u043f\u043e\u0440\u0430\u0436\u0435\u043d\u0438\u044f, \u043f\u0440\u0438 \u043f\u043e\u043c\u043e\u0449\u0438 Rage Art. (\u041a\u0440\u043e\u043c\u0435 \u043b\u043e\u043a. \u043f\u043e\u0435\u0434.)",
+            "japanese": "\u30ec\u30a4\u30b8\u30a2\u30fc\u30c4\u30675\u56de\u9006\u8ee2K.O.\u3057\u305f(\u30aa\u30d5\u30e9\u30a4\u30f3\u306e\u5bfe\u4eba\u6226\u3092\u9664\u304f)",
+            "arabic": "\u0625\u0642\u062a\u0644\u0627\u0639 \u0627\u0644\u0646\u0635\u0631 \u0645\u0646 \u0641\u0643 \u0627\u0644\u0647\u0632\u064a\u0645\u0629 5 \u0645\u0631\u0627\u062a \u0645\u0639 Rage Art. (\u0628\u0627\u0633\u062a\u062b\u0646\u0627\u0621 \u0645\u0639\u0627\u0631\u0643 \u0627\u0644\u0645\u0648\u0627\u062c\u0647\u0629 \u062f\u0648\u0646 \u0627\u0644\u0625\u0646\u062a\u0631\u0646\u062a)",
+            "brazilian": "Venceu cinco vezes de virada com uma Rage Art (exceto Batalhas VS offline).",
+            "token": "NEW_ACHIEVEMENT_1_31_DESC"
+        },
+        "icon": "18beb2c05141aa5a2c54d466e81c1baa0c55295c.jpg",
+        "icon_gray": "c45a5a6e0a329c38f3f8251b95629b3c168f0b0c.jpg",
+        "name": "TK_ACH_31",
+        "progress": {
+            "min_val": "0",
+            "max_val": "5",
+            "value": {
+                "operation": "statvalue",
+                "operand1": "TKStatsReversalKOByRageArts"
+            }
+        }
+    },
+    {
+        "hidden": "0",
+        "displayName": {
+            "english": "This Should Be Fun",
+            "german": "Das d\u00fcrfte lustig werden.",
+            "french": "Je sens qu'on va s'amuser",
+            "italian": "Ci sar\u00e0 da divertirsi",
+            "koreana": "\uc7ac\ubbf8\uc788\uc5b4\uc9c0\uaca0\uc5b4",
+            "spanish": "Va a ser divertido",
+            "tchinese": "\u770b\u4f86\u6703\u5f88\u6709\u8da3\u5462",
+            "russian": "\u0411\u0443\u0434\u0435\u0442 \u0432\u0435\u0441\u0435\u043b\u043e",
+            "japanese": "\u9762\u767d\u304f\u306a\u308a\u305d\u3046\u306d",
+            "arabic": "\u0633\u064a\u0643\u0648\u0646 \u0647\u0630\u0627 \u0645\u0645\u062a\u0639\u064b\u0627",
+            "brazilian": "Isso vai ser divertido",
+            "token": "NEW_ACHIEVEMENT_44_0_NAME"
+        },
+        "description": {
+            "english": "Got promoted to 1st dan.",
+            "german": "Zu \"1st dan\" bef\u00f6rdert worden.",
+            "french": "\u00catre promu au rang de 1st dan.",
+            "italian": "Promosso a 1st dan.",
+            "koreana": "1st dan\uc73c\ub85c \uc2b9\uc9c4\ud588\ub2e4",
+            "spanish": "Has ascendido a 1st dan.",
+            "tchinese": "\u5347\u7d1a\u81f3 1st dan",
+            "russian": "\u0412\u044b \u043f\u043e\u043b\u0443\u0447\u0438\u043b\u0438 \u043f\u043e\u0432\u044b\u0448\u0435\u043d\u0438\u0435 \u0434\u043e 1st dan.",
+            "japanese": "\u521d\u6bb5\u306b\u6607\u683c\u3057\u305f",
+            "arabic": "\u200f\u062a\u0645\u062a \u0627\u0644\u062a\u0631\u0642\u064a\u0629 \u0625\u0644\u0649 1st dan.",
+            "brazilian": "Foi promovido ao 1st dan.",
+            "token": "NEW_ACHIEVEMENT_44_0_DESC"
+        },
+        "icon": "c51bd8631c96378df730dd791fbda0082ffedd8d.jpg",
+        "icon_gray": "dcfe7ffc208ff621d46967f4ecd3feb73a70303d.jpg",
+        "name": "TK_ACH_32",
+        "progress": {
+            "min_val": "0",
+            "max_val": "10",
+            "value": {
+                "operation": "statvalue",
+                "operand1": "TKStatsPromoted"
+            }
+        }
+    },
+    {
+        "hidden": "0",
+        "displayName": {
+            "english": "Your Technique Is Impressive",
+            "german": "Deine Technik ist beeindruckend.",
+            "french": "Ta technique est impressionnante",
+            "italian": "La tua tecnica \u00e8 notevole",
+            "koreana": "\ud6cc\ub96d\ud55c \uc2e4\ub825\uc744 \uac00\uc9c0\uc168\uad70\uc694",
+            "spanish": "Tu destreza es impresionante",
+            "tchinese": "\u4f60\u7684\u6b66\u8853\u529f\u592b\u5f88\u4e0d\u932f",
+            "russian": "\u0423 \u0442\u0435\u0431\u044f \u0432\u043f\u0435\u0447\u0430\u0442\u043b\u044f\u044e\u0449\u0430\u044f \u0442\u0435\u0445\u043d\u0438\u043a\u0430",
+            "japanese": "\u826f\u304d\u6b66\u3092\u304a\u6301\u3061\u3067\u3059\u306d",
+            "arabic": "\u0627\u0633\u0644\u0648\u0628\u0643 \u0645\u0630\u0647\u0644",
+            "brazilian": "Sua t\u00e9cnica \u00e9 impressionante",
+            "token": "NEW_ACHIEVEMENT_44_1_NAME"
+        },
+        "description": {
+            "english": "Got promoted to Initiate.",
+            "german": "Zu Initiate bef\u00f6rdert worden.",
+            "french": "\u00catre promu au rang de Initiate.",
+            "italian": "Promosso a Initiate.",
+            "koreana": "Initiate\ub85c \uc2b9\uc9c4\ud588\ub2e4",
+            "spanish": "Has ascendido a Initiate.",
+            "tchinese": "\u5347\u7d1a\u81f3 Initiate",
+            "russian": "\u0412\u044b \u043f\u043e\u043b\u0443\u0447\u0438\u043b\u0438 \u043f\u043e\u0432\u044b\u0448\u0435\u043d\u0438\u0435 \u0434\u043e Initiate.",
+            "japanese": "\u6b66\u8005\u306b\u6607\u683c\u3057\u305f",
+            "arabic": "\u062a\u0645\u062a \u0627\u0644\u062a\u0631\u0642\u064a\u0629 \u0625\u0644\u0649 Initiate.",
+            "brazilian": "Foi promovido a Initiate.",
+            "token": "NEW_ACHIEVEMENT_44_1_DESC"
+        },
+        "icon": "ecbf2d071066ea2de4978e66ad838ce32a00e2dc.jpg",
+        "icon_gray": "55a905f37a6603b80ed8345cf6c6e3fa5e4eec63.jpg",
+        "name": "TK_ACH_33",
+        "progress": {
+            "min_val": "0",
+            "max_val": "13",
+            "value": {
+                "operation": "statvalue",
+                "operand1": "TKStatsPromoted"
+            }
+        }
+    },
+    {
+        "hidden": "0",
+        "displayName": {
+            "english": "Roar! (Nice Moves!)",
+            "german": "Groar! (Nette Technik!)",
+            "french": "Grrr\u00a0! (Jolis coups\u00a0!)",
+            "italian": "Roar! (Belle mosse!)",
+            "koreana": "\ud06c\uc5b4\uc5b4\uc5c9!(\uc88b\uc740 \uc6c0\uc9c1\uc784\uc774\ub2e4!)",
+            "spanish": "\u00a1Grrrr! (\u00a1Buenos movimientos!)",
+            "tchinese": "\u543c\u543c\uff01(\u52d5\u4f5c\u4e0d\u932f\uff01)",
+            "russian": "\u0413\u0440-\u0440-\u0440! (\u041e\u0442\u043b\u0438\u0447\u043d\u043e \u0434\u0432\u0438\u0433\u0430\u0435\u0448\u044c\u0441\u044f!)",
+            "japanese": "\u30ac\u30a6\u30ac\u30a6!(\u3044\u3044\u52d5\u304d\u3060!)",
+            "arabic": "\u0632\u0626\u064a\u0631! (\u062d\u0631\u0643\u0627\u062a \u062c\u0645\u064a\u0644\u0629!)",
+            "brazilian": "Rugido! (Belos golpes!)",
+            "token": "NEW_ACHIEVEMENT_44_2_NAME"
+        },
+        "description": {
+            "english": "Got promoted to Brawler.",
+            "german": "Zu Brawler bef\u00f6rdert worden.",
+            "french": "\u00catre promu au rang de Brawler.",
+            "italian": "Promosso a Brawler.",
+            "koreana": "Brawler\ub85c \uc2b9\uc9c4\ud588\ub2e4",
+            "spanish": "Has ascendido a Brawler.",
+            "tchinese": "\u5347\u7d1a\u81f3 Brawler",
+            "russian": "\u0412\u044b \u043f\u043e\u043b\u0443\u0447\u0438\u043b\u0438 \u043f\u043e\u0432\u044b\u0448\u0435\u043d\u0438\u0435 \u0434\u043e Brawler.",
+            "japanese": "\u9913\u72fc\u306b\u6607\u683c\u3057\u305f",
+            "arabic": "\u062a\u0645\u062a \u0627\u0644\u062a\u0631\u0642\u064a\u0629 \u0625\u0644\u0649 Brawler.",
+            "brazilian": "Foi promovido a Brawler.",
+            "token": "NEW_ACHIEVEMENT_44_2_DESC"
+        },
+        "icon": "94ef28b9c912aa3599028cd01262bf97ac20817a.jpg",
+        "icon_gray": "e963a314234d84c089f95d005cc254f05db0fb6a.jpg",
+        "name": "TK_ACH_34",
+        "progress": {
+            "min_val": "0",
+            "max_val": "17",
+            "value": {
+                "operation": "statvalue",
+                "operand1": "TKStatsPromoted"
+            }
+        }
+    },
+    {
+        "hidden": "0",
+        "displayName": {
+            "english": "Hot-Blooded Fighter",
+            "german": "Hei\u00dfbl\u00fctiger K\u00e4mpfer.",
+            "french": "Combattant au sang chaud",
+            "italian": "Combattente passionale",
+            "koreana": "\ucd08\uc5f4\ud608 \uaca9\ud22c\uac00",
+            "spanish": "Combatiente vehemente",
+            "tchinese": "\u8d85\u71b1\u8840\u683c\u9b25\u5bb6",
+            "russian": "\u0411\u043e\u0435\u0446 \u0441 \u0433\u043e\u0440\u044f\u0447\u0438\u043c \u0441\u0435\u0440\u0434\u0446\u0435\u043c",
+            "japanese": "\u8d85\u71b1\u8840\u683c\u95d8\u5bb6",
+            "arabic": "\u0645\u0642\u0627\u062a\u0644 \u0645\u062a\u062d\u0645\u0633",
+            "brazilian": "Lutador de sangue quente",
+            "token": "NEW_ACHIEVEMENT_44_3_NAME"
+        },
+        "description": {
+            "english": "Got promoted to Warrior.",
+            "german": "Zu Warrior bef\u00f6rdert worden.",
+            "french": "\u00catre promu au rang de Warrior.",
+            "italian": "Promosso a Warrior.",
+            "koreana": "Warrior\ub85c \uc2b9\uc9c4\ud588\ub2e4",
+            "spanish": "Has ascendido a Warrior.",
+            "tchinese": "\u5347\u7d1a\u81f3 Warrior",
+            "russian": "\u0412\u044b \u043f\u043e\u043b\u0443\u0447\u0438\u043b\u0438 \u043f\u043e\u0432\u044b\u0448\u0435\u043d\u0438\u0435 \u0434\u043e Warrior.",
+            "japanese": "\u525b\u62f3\u306b\u6607\u683c\u3057\u305f",
+            "arabic": "\u062a\u0645\u062a \u0627\u0644\u062a\u0631\u0642\u064a\u0629 \u0625\u0644\u0649 Warrior.",
+            "brazilian": "Foi promovido a Warrior.",
+            "token": "NEW_ACHIEVEMENT_44_3_DESC"
+        },
+        "icon": "619669911a250bf8b785e79dd4bda1242d2b810b.jpg",
+        "icon_gray": "8510c6452a07aeefbceba3bfe74282710037f4fb.jpg",
+        "name": "TK_ACH_35",
+        "progress": {
+            "min_val": "0",
+            "max_val": "21",
+            "value": {
+                "operation": "statvalue",
+                "operand1": "TKStatsPromoted"
+            }
+        }
+    },
+    {
+        "hidden": "0",
+        "displayName": {
+            "english": "Anger Of The Beast",
+            "german": "Zorn der Bestie.",
+            "french": "La furie de la B\u00eate",
+            "italian": "La rabbia della bestia",
+            "koreana": "\uc575\uac70 \uc624\ube0c \ube44\uc2a4\ud2b8",
+            "spanish": "Rabia de la bestia",
+            "tchinese": "\u91ce\u7378\u4e4b\u6012",
+            "russian": "\u042f\u0440\u043e\u0441\u0442\u044c \u0437\u0432\u0435\u0440\u044f",
+            "japanese": "\u30a2\u30f3\u30ac\u30fc\u30fb\u30aa\u30d6\u30fb\u30d3\u30fc\u30b9\u30c8",
+            "arabic": "\u063a\u0636\u0628 \u0627\u0644\u0648\u062d\u0634",
+            "brazilian": "Raiva bestial",
+            "token": "NEW_ACHIEVEMENT_44_4_NAME"
+        },
+        "description": {
+            "english": "Dealt an overall total of 1,000 damage while in rage mode. (Excluding offline VS Battle)",
+            "german": "Im Rage-Modus insgesamt 1.000 Schaden verursacht. (Ausgenommen Offline-Versus-Kampf)",
+            "french": "Infliger un total de 1\u00a0000 points de d\u00e9g\u00e2ts pendant le mode Rage. (Hors Versus hors-ligne)",
+            "italian": "Inflitti 1.000 danni totali durante la modalit\u00e0 Rage (esclusa la Battaglia VS offline).",
+            "koreana": "\ub808\uc774\uc9c0 \uc0c1\ud0dc\uc5d0\uc11c \ub204\uacc4 1,000 \ub300\ubbf8\uc9c0\ub97c \uc785\ud614\ub2e4 (\uc624\ud504\ub77c\uc778\uc758 \ub300\uc778\uc804\uc744 \uc81c\uc678)",
+            "spanish": "Has infligido un total de 1000 de da\u00f1o en modo Rage. (Duelo sin conexi\u00f3n no incluido)",
+            "tchinese": "Rage\u72c0\u614b\u6240\u7d2f\u8a08\u9020\u6210\u7684\u640d\u50b7\u8d85\u904e1,000(\u96e2\u7dda\u6a21\u5f0f\u7684\u5c0d\u4eba\u6230\u9664\u5916)",
+            "russian": "\u0412\u044b \u043d\u0430\u043d\u0435\u0441\u043b\u0438 \u0432 \u043e\u0431\u0449\u0435\u0439 \u0441\u043b\u043e\u0436\u043d\u043e\u0441\u0442\u0438 \u0431\u043e\u043b\u044c\u0448\u0435 1000 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u0432 \u0440\u0435\u0436\u0438\u043c\u0435 Rage. (\u041a\u0440\u043e\u043c\u0435 \u043b\u043e\u043a\u0430\u043b\u044c\u043d\u044b\u0445 \u043f\u043e\u0435\u0434\u0438\u043d\u043a\u043e\u0432.)",
+            "japanese": "\u30ec\u30a4\u30b8\u72b6\u614b\u3067\u7d2f\u8a081,000\u30c0\u30e1\u30fc\u30b8\u4e0e\u3048\u305f(\u30aa\u30d5\u30e9\u30a4\u30f3\u306e\u5bfe\u4eba\u6226\u3092\u9664\u304f)",
+            "arabic": "\u0625\u062d\u062f\u0627\u062b \u0625\u062c\u0645\u0627\u0644\u064a 1,000 \u0645\u0646 \u0627\u0644\u0636\u0631\u0631 \u0623\u062b\u0646\u0627\u0621 \u0648\u0636\u0639 Rage. (\u0628\u0627\u0633\u062a\u062b\u0646\u0627\u0621 \u0645\u0639\u0627\u0631\u0643 \u0627\u0644\u0645\u0648\u0627\u062c\u0647\u0629 \u062f\u0648\u0646 \u0627\u0644\u0625\u0646\u062a\u0631\u0646\u062a)",
+            "brazilian": "Causou um total de 1.000 de dano durante o modo de Rage (exceto Batalhas VS offline).",
+            "token": "NEW_ACHIEVEMENT_44_4_DESC"
+        },
+        "icon": "93392e5781829d7e7e986bcefdafc7ef07ac2c08.jpg",
+        "icon_gray": "cd800d42e9bb6b0c63769b0c2217d7f84aa9effd.jpg",
+        "name": "TK_ACH_36",
+        "progress": {
+            "min_val": "0",
+            "max_val": "1000",
+            "value": {
+                "operation": "statvalue",
+                "operand1": "TKStatsRageDamage"
+            }
+        }
+    },
+    {
+        "hidden": "0",
+        "displayName": {
+            "english": "Sturdy And Indestructible",
+            "german": "Stabil und unzerst\u00f6rbar.",
+            "french": "Solide et indestructible",
+            "italian": "Solido e indistruttibile",
+            "koreana": "\uae08\uac15\ubd88\uad34",
+            "spanish": "Fuerte e indestructible",
+            "tchinese": "\u91d1\u525b\u4e0d\u58de",
+            "russian": "\u041d\u0435\u0441\u043e\u043a\u0440\u0443\u0448\u0438\u043c\u044b\u0439",
+            "japanese": "\u91d1\u525b\u4e0d\u58ca",
+            "arabic": "\u0642\u0648\u064a \u0648\u063a\u064a\u0631 \u0642\u0627\u0628\u0644 \u0644\u0644\u062a\u062f\u0645\u064a\u0631",
+            "brazilian": "Refor\u00e7ado e indestrut\u00edvel",
+            "token": "NEW_ACHIEVEMENT_44_6_NAME"
+        },
+        "description": {
+            "english": "Blocked 5 Rage Arts. (Excluding offline VS Battle)",
+            "german": "5 Rage Arts geblockt. (Ausgenommen Offline-Versus-Kampf)",
+            "french": "Bloquer cinq Rage Arts. (Hors Versus hors-ligne)",
+            "italian": "Bloccate 5 Rage Art (esclusa la Battaglia VS offline).",
+            "koreana": "Rage Art\ub97c 5\ud68c \ubc29\uc5b4\ud588\ub2e4 (\uc624\ud504\ub77c\uc778\uc758 \ub300\uc778\uc804\uc744 \uc81c\uc678)",
+            "spanish": "Has bloqueado 5 Rage Arts. (Duelo sin conexi\u00f3n no incluido)",
+            "tchinese": "\u9632\u79a6Rage Art5\u6b21(\u96e2\u7dda\u6a21\u5f0f\u7684\u5c0d\u4eba\u6230\u9664\u5916)",
+            "russian": "\u0412\u044b \u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u0430\u043b\u0438 Rage Art \u043f\u044f\u0442\u044c \u0440\u0430\u0437. (\u041a\u0440\u043e\u043c\u0435 \u043b\u043e\u043a\u0430\u043b\u044c\u043d\u044b\u0445 \u043f\u043e\u0435\u0434\u0438\u043d\u043a\u043e\u0432.)",
+            "japanese": "\u30ec\u30a4\u30b8\u30a2\u30fc\u30c4\u30925\u56de\u30ac\u30fc\u30c9\u3057\u305f(\u30aa\u30d5\u30e9\u30a4\u30f3\u306e\u5bfe\u4eba\u6226\u3092\u9664\u304f)",
+            "arabic": "\u0635\u062f 5 \u0645\u0646 Rage Arts. (\u0628\u0627\u0633\u062a\u062b\u0646\u0627\u0621 \u0645\u0639\u0627\u0631\u0643 \u0627\u0644\u0645\u0648\u0627\u062c\u0647\u0629 \u062f\u0648\u0646 \u0627\u0644\u0625\u0646\u062a\u0631\u0646\u062a)",
+            "brazilian": "Defendeu cinco Rage Arts (exceto Batalhas VS offline).",
+            "token": "NEW_ACHIEVEMENT_44_6_DESC"
+        },
+        "icon": "c6950008958465d5bc41ecc50abe10d93c93807e.jpg",
+        "icon_gray": "04e202e099be0bc85e8037481050dd614409a4b8.jpg",
+        "name": "TK_ACH_38",
+        "progress": {
+            "min_val": "0",
+            "max_val": "5",
+            "value": {
+                "operation": "statvalue",
+                "operand1": "TKStatsGuardRageArts"
+            }
+        }
+    },
+    {
+        "hidden": "0",
+        "displayName": {
+            "english": "Don't Hold Anything Back",
+            "german": "Halt dich nicht zur\u00fcck.",
+            "french": "Ne retiens pas tes coups",
+            "italian": "Non risparmiare le forze",
+            "koreana": "\uc5ec\uc790\ub77c\uace0 \uc548 \ubd10\uc918\ub3c4 \ub41c\ub370\uc774",
+            "spanish": "No te guardes nada",
+            "tchinese": "\u4e0d\u7528\u624b\u4e0b\u7559\u60c5\u554a",
+            "russian": "\u041d\u0435 \u0441\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0439\u0441\u044f",
+            "japanese": "\u624b\u52a0\u6e1b\u3044\u3089\u3093\u3067",
+            "arabic": "\u0644\u0627 \u062f\u0627\u0639 \u0644\u062c\u0645\u062d \u0642\u0648\u062a\u0643",
+            "brazilian": "N\u00e3o se segure",
+            "token": "NEW_ACHIEVEMENT_44_7_NAME"
+        },
+        "description": {
+            "english": "Defeated 20 opponents of a higher rank.",
+            "german": "20 Gegner mit einem h\u00f6heren Rang besiegt.",
+            "french": "Vaincre 20 adversaires de rang sup\u00e9rieur.",
+            "italian": "Sconfitti 20 avversari di grado pi\u00f9 alto.",
+            "koreana": "\uc790\uc2e0\ubcf4\ub2e4 \ub2e8\uc704\uac00 \ub192\uc740 \uc0c1\ub300\uc5d0\uac8c 20\uc2b9 \ud588\ub2e4",
+            "spanish": "Has derrotado a 20 rivales de mayor rango.",
+            "tchinese": "\u6230\u52dd\u6bb5\u4f4d\u8f03\u9ad8\u7684\u5c0d\u624b20\u6b21",
+            "russian": "\u0412\u044b \u043e\u0434\u043e\u043b\u0435\u043b\u0438 20 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u043e\u0432 \u0431\u043e\u043b\u0435\u0435 \u0432\u044b\u0441\u043e\u043a\u043e\u0433\u043e \u0440\u0430\u043d\u0433\u0430.",
+            "japanese": "\u6bb5\u4f4d\u304c\u4e0a\u306e\u76f8\u624b\u306b20\u52dd\u3057\u305f",
+            "arabic": "\u0627\u0644\u062a\u0641\u0648\u0642 \u0639\u0644\u0649 20 \u0645\u0646 \u0627\u0644\u062e\u0635\u0648\u0645 \u0645\u0646 \u0631\u062a\u0628\u0629 \u0623\u0639\u0644\u0649.",
+            "brazilian": "Derrotou 20 oponentes com maior ranking.",
+            "token": "NEW_ACHIEVEMENT_44_7_DESC"
+        },
+        "icon": "bc913e55dd48d6ea983949b767573bcc49b5b41e.jpg",
+        "icon_gray": "2d49b2a8e8f5eddb7729e837d2bc56b233b10c1b.jpg",
+        "name": "TK_ACH_39",
+        "progress": {
+            "min_val": "0",
+            "max_val": "20",
+            "value": {
+                "operation": "statvalue",
+                "operand1": "TKStatsWonToUpperRank"
+            }
+        }
+    },
+    {
+        "hidden": "0",
+        "displayName": {
+            "english": "Destructive Drive",
+            "german": "Destructive Drive",
+            "french": "Folie destructrice",
+            "italian": "Impulso distruttivo",
+            "koreana": "\ud30c\uad34\ucda9\ub3d9",
+            "spanish": "Impulso destructor",
+            "tchinese": "\u7834\u58de\u885d\u52d5",
+            "russian": "\u0420\u0430\u0437\u0440\u0443\u0448\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u043d\u0430\u043f\u043e\u0440",
+            "japanese": "\u7834\u58ca\u885d\u52d5",
+            "arabic": "\u062a\u0648\u062c\u0647 \u062a\u062f\u0645\u064a\u0631\u064a",
+            "brazilian": "Golpe destrutivo",
+            "token": "NEW_ACHIEVEMENT_44_8_NAME"
+        },
+        "description": {
+            "english": "Performed a floor-breaking move. (Excluding offline VS Battle)",
+            "german": "Einen Bodenbrecher ausgef\u00fchrt. (Ausgenommen Offline-Versus-Kampf)",
+            "french": "D\u00e9truire le sol en effectuant un coup. (Hors Versus hors-ligne)",
+            "italian": "Effettuata una mossa che distrugge il pavimento (esclusa la Battaglia VS offline).",
+            "koreana": "\ud50c\ub85c\uc5b4 \ube0c\ub808\uc774\ud06c\ub97c \ubc1c\uc0dd\uc2dc\ucf30\ub2e4 (\uc624\ud504\ub77c\uc778\uc758 \ub300\uc778\uc804\uc744 \uc81c\uc678)",
+            "spanish": "Has realizado un movimiento que ha destruido el suelo. (Duelo sin conexi\u00f3n no incluido)",
+            "tchinese": "\u5f15\u767c\u5730\u677f\u7834\u58de(\u96e2\u7dda\u6a21\u5f0f\u7684\u5c0d\u4eba\u6230\u9664\u5916)",
+            "russian": "\u0412\u044b \u0432\u044b\u043f\u043e\u043b\u043d\u0438\u043b\u0438 \u043f\u0440\u0438\u0435\u043c, \u0440\u0430\u0437\u0440\u0443\u0448\u0430\u044e\u0449\u0438\u0439 \u043f\u043e\u043b. (\u041a\u0440\u043e\u043c\u0435 \u043b\u043e\u043a\u0430\u043b\u044c\u043d\u044b\u0445 \u043f\u043e\u0435\u0434\u0438\u043d\u043a\u043e\u0432.)",
+            "japanese": "\u30d5\u30ed\u30a2\u30d6\u30ec\u30a4\u30af\u3092\u767a\u751f\u3055\u305b\u305f(\u30aa\u30d5\u30e9\u30a4\u30f3\u306e\u5bfe\u4eba\u6226\u3092\u9664\u304f)",
+            "arabic": "\u0625\u062c\u0631\u0627\u0621 \u062d\u0631\u0643\u0629 \u062a\u062d\u0637\u064a\u0645 \u0623\u0631\u0636\u064a. (\u0628\u0627\u0633\u062a\u062b\u0646\u0627\u0621 \u0645\u0639\u0627\u0631\u0643 \u0627\u0644\u0645\u0648\u0627\u062c\u0647\u0629 \u062f\u0648\u0646 \u0627\u0644\u0625\u0646\u062a\u0631\u0646\u062a)",
+            "brazilian": "Realizou um golpe que quebrou o piso (exceto Batalhas VS offline).",
+            "token": "NEW_ACHIEVEMENT_44_8_DESC"
+        },
+        "icon": "07cea92201fd3a364676c6c8ae16c5b6e575f022.jpg",
+        "icon_gray": "e4e64a60a91623547e81004e7fa3c9b3c1d33a80.jpg",
+        "name": "TK_ACH_40",
+        "progress": {
+            "min_val": "0",
+            "max_val": "1",
+            "value": {
+                "operation": "statvalue",
+                "operand1": "TKStatsFloorBreaked"
+            }
+        }
+    },
+    {
+        "hidden": "0",
+        "displayName": {
+            "english": "Crushing Impact!",
+            "german": "Crushing Impact!",
+            "french": "\u00c7a va faire mal\u00a0!",
+            "italian": "Impatto distruttivo",
+            "koreana": "Crash Impact!",
+            "spanish": "\u00a1Impacto demoledor!",
+            "tchinese": "Crash Impact\uff01",
+            "russian": "\u0421\u043e\u043a\u0440\u0443\u0448\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u0443\u0434\u0430\u0440!",
+            "japanese": "\u30af\u30e9\u30c3\u30b7\u30e5\u30a4\u30f3\u30d1\u30af\u30c8!",
+            "arabic": "\u062a\u0623\u062b\u064a\u0631 \u0633\u0627\u062d\u0642!",
+            "brazilian": "Impacto esmagador!",
+            "token": "NEW_ACHIEVEMENT_44_9_NAME"
+        },
+        "description": {
+            "english": "Performed a balcony-breaking move. (Excluding offline VS Battle)",
+            "german": "Einen Balkonbrecher ausgef\u00fchrt. (Ausgenommen Offline-Versus-Kampf)",
+            "french": "D\u00e9truire un balcon en effectuant un coup. (Hors Versus hors-ligne)",
+            "italian": "Effettuata una mossa che distrugge una balconata (esclusa la Battaglia VS offline).",
+            "koreana": "\ubc1c\ucf54\ub2c8 \ube0c\ub808\uc774\ud06c\ub97c \ubc1c\uc0dd\uc2dc\ucf30\ub2e4 (\uc624\ud504\ub77c\uc778\uc758 \ub300\uc778\uc804\uc744 \uc81c\uc678)",
+            "spanish": "Has realizado un movimiento que ha destruido un balc\u00f3n. (Duelo sin conexi\u00f3n no incluido)",
+            "tchinese": "\u5f15\u767c\u967d\u53f0\u7834\u58de(\u96e2\u7dda\u6a21\u5f0f\u7684\u5c0d\u4eba\u6230\u9664\u5916)",
+            "russian": "\u0412\u044b \u0432\u044b\u043f\u043e\u043b\u043d\u0438\u043b\u0438 \u043f\u0440\u0438\u0435\u043c, \u0440\u0430\u0437\u0440\u0443\u0448\u0430\u044e\u0449\u0438\u0439 \u0431\u0430\u043b\u043a\u043e\u043d. (\u041a\u0440\u043e\u043c\u0435 \u043b\u043e\u043a\u0430\u043b\u044c\u043d\u044b\u0445 \u043f\u043e\u0435\u0434\u0438\u043d\u043a\u043e\u0432.)",
+            "japanese": "\u30d0\u30eb\u30b3\u30cb\u30fc\u30d6\u30ec\u30a4\u30af\u3092\u767a\u751f\u3055\u305b\u305f(\u30aa\u30d5\u30e9\u30a4\u30f3\u306e\u5bfe\u4eba\u6226\u3092\u9664\u304f)",
+            "arabic": "\u0625\u062c\u0631\u0627\u0621 \u062d\u0631\u0643\u0629 \u062a\u062d\u0637\u064a\u0645 \u0627\u0644\u0634\u0631\u0641\u0629. (\u0628\u0627\u0633\u062a\u062b\u0646\u0627\u0621 \u0645\u0639\u0627\u0631\u0643 \u0627\u0644\u0645\u0648\u0627\u062c\u0647\u0629 \u062f\u0648\u0646 \u0627\u0644\u0625\u0646\u062a\u0631\u0646\u062a)",
+            "brazilian": "Realizou um golpe que quebrou a marquise (exceto Batalhas VS offline).",
+            "token": "NEW_ACHIEVEMENT_44_9_DESC"
+        },
+        "icon": "63f97a69970055ef4c888e3dc68d9a5b2a0bf22c.jpg",
+        "icon_gray": "171e0e30b95e8f43c98fc0d6afd59d89c9e2b807.jpg",
+        "name": "TK_ACH_41",
+        "progress": {
+            "min_val": "0",
+            "max_val": "1",
+            "value": {
+                "operation": "statvalue",
+                "operand1": "TKStatsBalconyBreaked"
+            }
+        }
+    },
+    {
+        "hidden": "0",
+        "displayName": {
+            "english": "Going Somewhere?",
+            "german": "Wohin willst du?",
+            "french": "Tu croyais pouvoir t'en aller comme \u00e7a\u00a0?",
+            "italian": "Vai da qualche parte?",
+            "koreana": "\uc5b4\ub514 \uac08 \uc0dd\uac01\uc774\uc9c0?",
+            "spanish": "\u00bfVas a alg\u00fan lado?",
+            "tchinese": "\u4f60\u60f3\u53bb\u54ea\u88e1\uff1f",
+            "russian": "\u041a\u0443\u0434\u0430 \u044d\u0442\u043e \u0442\u044b?",
+            "japanese": "\u3069\u3053\u3078\u884c\u304f\u3064\u3082\u308a?",
+            "arabic": "\u0647\u0644 \u0633\u062a\u0630\u0647\u0628 \u0625\u0644\u0649 \u0645\u0643\u0627\u0646 \u0645\u0627\u061f",
+            "brazilian": "Vai a algum lugar?",
+            "token": "NEW_ACHIEVEMENT_44_10_NAME"
+        },
+        "description": {
+            "english": "Reached the bottom floor of the Forgotten Realm stage. (Excluding offline VS Battle)",
+            "german": "Das unterste Stockwerk des Levels \"Forgotten Realm\" erreicht. (Ausgenommen Offline-Versus-Kampf)",
+            "french": "Atteindre l'\u00e9tage inf\u00e9rieur du niveau Forgotten Realm. (Hors Versus hors-ligne)",
+            "italian": "Raggiunto il piano pi\u00f9 basso del livello Forgotten Realm (esclusa la Battaglia VS offline).",
+            "koreana": "FORGOTTEN REALM \uc2a4\ud14c\uc774\uc9c0\uc5d0\uc11c \ucd5c\ud558\uce35\uc5d0 \ub3c4\ub2ec\ud588\ub2e4 (\uc624\ud504\ub77c\uc778\uc758 \ub300\uc778\uc804\uc744 \uc81c\uc678)",
+            "spanish": "Has llegado al piso m\u00e1s bajo del escenario Forgotten Realm. (Duelo sin conexi\u00f3n no incluido)",
+            "tchinese": "\u5728FORGOTTEN REALM\u95dc\u5361\u5230\u9054\u6700\u5e95\u5c64(\u96e2\u7dda\u6a21\u5f0f\u7684\u5c0d\u4eba\u6230\u9664\u5916)",
+            "russian": "\u0412\u044b \u0434\u043e\u0431\u0440\u0430\u043b\u0438\u0441\u044c \u0434\u043e \u043d\u0438\u0436\u043d\u0435\u0433\u043e \u0443\u0440\u043e\u0432\u043d\u044f \u0430\u0440\u0435\u043d\u044b Forgotten Realm. (\u041a\u0440\u043e\u043c\u0435 \u043b\u043e\u043a\u0430\u043b\u044c\u043d\u044b\u0445 \u043f\u043e\u0435\u0434\u0438\u043d\u043a\u043e\u0432.)",
+            "japanese": "FORGOTTEN REALM\u30b9\u30c6\u30fc\u30b8\u3067\u6700\u4e0b\u5c64\u306b\u5230\u9054\u3057\u305f(\u30aa\u30d5\u30e9\u30a4\u30f3\u306e\u5bfe\u4eba\u6226\u3092\u9664\u304f)",
+            "arabic": "\u0627\u0644\u0648\u0635\u0648\u0644 \u0625\u0644\u0649 \u0623\u0639\u0645\u0627\u0642 \u0627\u0644\u0623\u0631\u0636 \u0645\u0646 \u0645\u0631\u062d\u0644\u0629 Forgotten Realm. (\u0628\u0627\u0633\u062a\u062b\u0646\u0627\u0621 \u0645\u0639\u0627\u0631\u0643 \u0627\u0644\u0645\u0648\u0627\u062c\u0647\u0629 \u062f\u0648\u0646 \u0627\u0644\u0625\u0646\u062a\u0631\u0646\u062a)",
+            "brazilian": "Chegou ao andar mais baixo do est\u00e1gio Forgotten Realm (exceto Batalhas VS offline).",
+            "token": "NEW_ACHIEVEMENT_44_10_DESC"
+        },
+        "icon": "6e2d2a66a7e4c3b9c5232376798e4e25a5275c7a.jpg",
+        "icon_gray": "6b2493f57ed3cc07595f8133607e348031ccd0c0.jpg",
+        "name": "TK_ACH_42",
+        "progress": {
+            "min_val": "0",
+            "max_val": "1",
+            "value": {
+                "operation": "statvalue",
+                "operand1": "TKStatsStageBottomLayered.StageId.1"
+            }
+        }
+    },
+    {
+        "hidden": "0",
+        "displayName": {
+            "english": "Please Don't Tell My Father",
+            "german": "Bitte sag meinem Vater nichts",
+            "french": "Ne le dis pas \u00e0 mon p\u00e8re, s'il te pla\u00eet !",
+            "italian": "Per favore, non dirlo a mio padre",
+            "koreana": "\uc544\ubc84\ub2d8\uaed8\ub294 \ube44\ubc00\uc774\uc57c",
+            "spanish": "No se lo digas a mi padre",
+            "tchinese": "\u8981\u8ddf\u7238\u7238\u4fdd\u5bc6\u5594",
+            "russian": "\u0422\u043e\u043b\u044c\u043a\u043e \u043d\u0435 \u0433\u043e\u0432\u043e\u0440\u0438 \u043c\u043e\u0435\u043c\u0443 \u043e\u0442\u0446\u0443",
+            "japanese": "\u304a\u7236\u69d8\u306b\u306f\u5185\u7dd2\u3088",
+            "arabic": "\u0623\u0631\u062c\u0648\u0643 \u0644\u0627 \u062a\u062e\u0628\u0631 \u0623\u0628\u064a",
+            "brazilian": "N\u00e3o conte para o meu pai",
+            "token": "NEW_ACHIEVEMENT_44_11_NAME"
+        },
+        "description": {
+            "english": "Reached the deepest part of the Jungle Outpost stage. (Excluding offline VS Battle)",
+            "german": "Den tiefsten Teil des Levels \"Jungle Outpost\" erreicht. (Ausgenommen Offline-Versus-Kampf)",
+            "french": "Atteindre le c\u0153ur du niveau Jungle Outpost. (Hors Versus hors-ligne)",
+            "italian": "Raggiunta la parte pi\u00f9 profonda del livello Jungle Outpost (esclusa la Battaglia VS offline).",
+            "koreana": "JUNGLE OUTPOST \uc2a4\ud14c\uc774\uc9c0\uc5d0\uc11c \ucd5c\uc2ec\ubd80\uc5d0 \ub3c4\ub2ec\ud588\ub2e4 (\uc624\ud504\ub77c\uc778\uc758 \ub300\uc778\uc804\uc744 \uc81c\uc678)",
+            "spanish": "Has llegado a lo m\u00e1s profundo del escenario Jungle Outpost. (Duelo sin conexi\u00f3n no incluido)",
+            "tchinese": "\u5728JUNGLE OUTPOST\u95dc\u5361\u5230\u9054\u6700\u6df1\u8655(\u96e2\u7dda\u6a21\u5f0f\u7684\u5c0d\u4eba\u6230\u9664\u5916)",
+            "russian": "\u0412\u044b \u0434\u043e\u0431\u0440\u0430\u043b\u0438\u0441\u044c \u0434\u043e \u043d\u0435\u0434\u0440 \u0430\u0440\u0435\u043d\u044b Jungle Outpost. (\u041a\u0440\u043e\u043c\u0435 \u043b\u043e\u043a\u0430\u043b\u044c\u043d\u044b\u0445 \u043f\u043e\u0435\u0434\u0438\u043d\u043a\u043e\u0432.)",
+            "japanese": "JUNGLE OUTPOST\u30b9\u30c6\u30fc\u30b8\u3067\u6700\u6df1\u90e8\u306b\u5230\u9054\u3057\u305f(\u30aa\u30d5\u30e9\u30a4\u30f3\u306e\u5bfe\u4eba\u6226\u3092\u9664\u304f)",
+            "arabic": "\u0627\u0644\u0648\u0635\u0648\u0644 \u0625\u0644\u0649 \u0623\u0639\u0645\u0642 \u062c\u0632\u0621 \u0645\u0646 \u0645\u0631\u062d\u0644\u0629 Jungle Outpost. (\u0628\u0627\u0633\u062a\u062b\u0646\u0627\u0621 \u0645\u0639\u0627\u0631\u0643 \u0627\u0644\u0645\u0648\u0627\u062c\u0647\u0629 \u062f\u0648\u0646 \u0627\u0644\u0625\u0646\u062a\u0631\u0646\u062a)",
+            "brazilian": "Chegou \u00e0 parte mais profunda do est\u00e1gio Jungle Outpost (exceto Batalhas VS offline).",
+            "token": "NEW_ACHIEVEMENT_44_11_DESC"
+        },
+        "icon": "df74e20021a8b56fd38b41930158c2c1af09ebd2.jpg",
+        "icon_gray": "4e1190e6ea0eb6e3017a42384314b0223bc8178e.jpg",
+        "name": "TK_ACH_43",
+        "progress": {
+            "min_val": "0",
+            "max_val": "1",
+            "value": {
+                "operation": "statvalue",
+                "operand1": "TKStatsStageBottomLayered.StageId.2"
+            }
+        }
+    },
+    {
+        "hidden": "0",
+        "displayName": {
+            "english": "It's Just Business",
+            "german": "Rein Gesch\u00e4ftlich",
+            "french": "Ce sont juste les affaires",
+            "italian": "Sono solo affari",
+            "koreana": "\uc774\uac74 \ube44\uc988\ub2c8\uc2a4\ub2e4",
+            "spanish": "Solo son negocios",
+            "tchinese": "\u9019\u53ea\u662f\u516c\u4e8b",
+            "russian": "\u0411\u0438\u0437\u043d\u0435\u0441 \u0435\u0441\u0442\u044c \u0431\u0438\u0437\u043d\u0435\u0441",
+            "japanese": "\u3053\u308c\u306f\u30d3\u30b8\u30cd\u30b9\u3060",
+            "arabic": "\u0625\u0646\u0647 \u0645\u062c\u0631\u062f \u0639\u0645\u0644",
+            "brazilian": "S\u00e3o s\u00f3 neg\u00f3cios",
+            "token": "NEW_ACHIEVEMENT_44_12_NAME"
+        },
+        "description": {
+            "english": "Obtained an overall total of 5,000,000G.",
+            "german": "Insgesamt 5.000.000 G erhalten.",
+            "french": "Obtenir un total de 5\u00a0000\u00a0000\u00a0G.",
+            "italian": "Ottenuti 5.000.000 G in totale.",
+            "koreana": "\ub204\uacc4 \ud68d\ub4dd \uae08\uc561\uc774 500\ub9ccG\ub97c \ub118\uc5c8\ub2e4",
+            "spanish": "Has obtenido un total de 5\u00a0000\u00a0000 G.",
+            "tchinese": "\u7d2f\u8a08\u7372\u5f97\u91d1\u984d\u8d85\u904e500\u842cG",
+            "russian": "\u0412\u044b \u043f\u043e\u043b\u0443\u0447\u0438\u043b\u0438 \u0432 \u043e\u0431\u0449\u0435\u0439 \u0441\u0443\u043c\u043c\u0435 5 000 000 G.",
+            "japanese": "\u7d2f\u8a08\u7372\u5f97\u91d1\u984d\u304c500\u4e07\uff27\u3092\u8d85\u3048\u305f",
+            "arabic": "\u0627\u0644\u062d\u0635\u0648\u0644 \u0639\u0644\u0649 \u0625\u062c\u0645\u0627\u0644\u064a 5,000,000 \u0630.",
+            "brazilian": "Obteve o total de 5.000.000G.",
+            "token": "NEW_ACHIEVEMENT_44_12_DESC"
+        },
+        "icon": "2dcc3ffa64fcd40d1fcb539ec0ceea3a18b71265.jpg",
+        "icon_gray": "4d4eb832ec2f751261532b0a1c72bc6faadf6da6.jpg",
+        "name": "TK_ACH_37",
+        "progress": {
+            "min_val": "0",
+            "max_val": "5000000",
+            "value": {
+                "operation": "statvalue",
+                "operand1": "TKStatsAcquiredMoney"
+            }
+        }
+    },
+    {
+        "hidden": "0",
+        "displayName": {
+            "english": "Excellent",
+            "german": "Hervorragend.",
+            "french": "Excellent",
+            "italian": "Eccellente",
+            "koreana": "\uc5d1\uc124\ub7f0\ud2b8",
+            "spanish": "Excelente",
+            "tchinese": "Excellent",
+            "russian": "\u0427\u0443\u0434\u0435\u0441\u043d\u043e",
+            "japanese": "\u30a8\u30af\u30bb\u30ec\u30f3\u30c8",
+            "arabic": "\u0645\u0645\u062a\u0627\u0632",
+            "brazilian": "Excelente",
+            "token": "NEW_ACHIEVEMENT_44_13_NAME"
+        },
+        "description": {
+            "english": "Obtained an overall total of 10,000,000G.",
+            "german": "Insgesamt 10.000.000 G erhalten.",
+            "french": "Obtenir un total de 10\u00a0000\u00a0000\u00a0G.",
+            "italian": "Ottenuti 10.000.000 G in totale.",
+            "koreana": "\ub204\uacc4 \ud68d\ub4dd \uae08\uc561\uc774 1,000\ub9ccG\ub97c \ub118\uc5c8\ub2e4",
+            "spanish": "Has obtenido un total de 10\u00a0000\u00a0000 G.",
+            "tchinese": "\u7d2f\u8a08\u7372\u5f97\u91d1\u984d\u9054\u52301,000\u842cG",
+            "russian": "\u0412\u044b \u043f\u043e\u043b\u0443\u0447\u0438\u043b\u0438 \u0432 \u043e\u0431\u0449\u0435\u0439 \u0441\u0443\u043c\u043c\u0435 10 000 000 G.",
+            "japanese": "\u7d2f\u8a08\u7372\u5f97\u91d1\u984d\u304c1,000\u4e07\uff27\u3092\u8d85\u3048\u305f",
+            "arabic": "\u0627\u0644\u062d\u0635\u0648\u0644 \u0639\u0644\u0649 \u0625\u062c\u0645\u0627\u0644\u064a 10,000,000 \u0630.",
+            "brazilian": "Obteve o total de 10.000.000G.",
+            "token": "NEW_ACHIEVEMENT_44_13_DESC"
+        },
+        "icon": "ef4a716640cac0cef681a4ada43c8f82998521bb.jpg",
+        "icon_gray": "e695ddd5a2ad2eeb491c81323bca7ffc92e24c75.jpg",
+        "name": "TK_ACH_23",
+        "progress": {
+            "min_val": "0",
+            "max_val": "10000000",
+            "value": {
+                "operation": "statvalue",
+                "operand1": "TKStatsAcquiredMoney"
+            }
+        }
+    },
+    {
+        "hidden": "1",
+        "displayName": {
+            "english": "Master Of Iron Fist",
+            "german": "Iron Fist-Meister",
+            "french": "Master Of Iron Fist",
+            "italian": "Maestro del pugno di ferro",
+            "koreana": "\ucca0\uad8c\uc758 \uadf9",
+            "spanish": "As de Pu\u00f1o de Hierro",
+            "tchinese": "\u7a31\u9738\u9435\u62f3\u4e4b\u4eba",
+            "russian": "\u0416\u0435\u043b\u0435\u0437\u043d\u044b\u0439 \u043a\u0443\u043b\u0430\u043a",
+            "japanese": "\u9244\u62f3\u3092\u6975\u3081\u3057\u8005",
+            "arabic": "\u0633\u064a\u062f \u0627\u0644\u0642\u0628\u0636\u0629 \u0627\u0644\u062d\u062f\u064a\u062f\u064a\u0629",
+            "brazilian": "Mestre do Punho de Ferro",
+            "token": "NEW_ACHIEVEMENT_44_14_NAME"
+        },
+        "description": {
+            "english": "Finished the Special Chapter of the main story.",
+            "german": "Spezial-Kapitel der Hauptstory abgeschlossen.",
+            "french": "Terminer le Chapitre sp\u00e9cial de l'histoire principale.",
+            "italian": "Completato il capitolo speciale della Storia principale.",
+            "koreana": "STORY\uc758 MAIN STORY\uc5d0\uc11c SPECIAL CHAPTER\ub97c \ud074\ub9ac\uc5b4\ud588\ub2e4",
+            "spanish": "Termina el cap\u00edtulo especial de la historia principal.",
+            "tchinese": "\u5df2\u5728STORY\u7684MAIN STORY\u4e2d\u901a\u904eSPECIAL CHAPTER",
+            "russian": "\u0412\u044b \u0437\u0430\u0432\u0435\u0440\u0448\u0438\u043b\u0438 \u043e\u0441\u043e\u0431\u0443\u044e \u0433\u043b\u0430\u0432\u0443 \u043e\u0441\u043d\u043e\u0432\u043d\u043e\u0433\u043e \u0441\u044e\u0436\u0435\u0442\u0430.",
+            "japanese": "STORY\u306eMAIN STORY\u3067SPECIAL CHAPTER\u3092\u30af\u30ea\u30a2\u3057\u305f",
+            "arabic": "\u0625\u0646\u0647\u0627\u0621 \u0627\u0644\u0641\u0635\u0644 \u0627\u0644\u062e\u0627\u0635 \u0645\u0646 \u0627\u0644\u0642\u0635\u0629 \u0627\u0644\u0631\u0626\u064a\u0633\u064a\u0629.",
+            "brazilian": "Concluiu o Cap\u00edtulo Especial da hist\u00f3ria principal.",
+            "token": "NEW_ACHIEVEMENT_44_14_DESC"
+        },
+        "icon": "7f308de7db28b1d73f310a6dc15f4cc87744795d.jpg",
+        "icon_gray": "9b362fcae5591f408fe1754a4f98db0dcf94d1eb.jpg",
+        "name": "TK_ACH_44",
+        "progress": {
+            "min_val": "0",
+            "max_val": "1",
+            "value": {
+                "operation": "statvalue",
+                "operand1": "TKStatsStoryModeChapExCleared"
+            }
+        }
+    }
+]
